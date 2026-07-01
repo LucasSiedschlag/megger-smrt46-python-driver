@@ -1,0 +1,77 @@
+04/07 13:35:54.882 (+37946) <<30196>>(RELAY) CLOSE SERIAL
+04/07 13:35:54.994 (+  112) <<30196>>(RTS) CLOSE SOCKET
+04/07 13:35:54.994 (+    0) <<30196>>(RTS) Open
+04/07 13:35:55.002 (+    8) <<30196>>(RTS) m_DetectedIp = 0.0.0.0
+04/07 13:35:55.087 (+   85) <<30196>>(RTS) Ether Detect(0):  Sending UDP @ 8001, MEGGER
+04/07 13:35:55.087 (+    0) <<30196>>(RTS) Ether Detect(0):  successfully sent 6 bytes from IP 169.254.215.105
+04/07 13:35:55.087 (+    0) <<30196>>(RTS) Ether Detect(0):  Sending UDP @ 8001, MEGGER
+04/07 13:35:55.087 (+    0) <<30196>>(RTS) Ether Detect(0):  successfully sent 6 bytes from IP 172.21.144.1
+04/07 13:35:55.087 (+    0) <<30196>>(RTS) Ether Detect(1):  Sending UDP @ 8001, MEGGER
+04/07 13:35:55.087 (+    0) <<30196>>(RTS) Ether Detect(1):  successfully sent 6 bytes from IP 169.254.215.105
+04/07 13:35:55.087 (+    0) <<30196>>(RTS) Ether Detect(1):  Sending UDP @ 8001, MEGGER
+04/07 13:35:55.090 (+    3) <<30196>>(RTS) Ether Detect(1):  successfully sent 6 bytes from IP 172.21.144.1
+04/07 13:35:55.090 (+    0) <<30196>>(RTS) Ether Detect(2):  Sending UDP @ 8001, MEGGER
+04/07 13:35:55.090 (+    0) <<30196>>(RTS) Ether Detect(2):  successfully sent 6 bytes from IP 169.254.215.105
+04/07 13:35:55.090 (+    0) <<30196>>(RTS) Ether Detect(2):  Sending UDP @ 8001, MEGGER
+04/07 13:35:55.090 (+    0) <<30196>>(RTS) Ether Detect(2):  successfully sent 6 bytes from IP 172.21.144.1
+04/07 13:35:55.090 (+    0) <<30196>>(RTS) Ether Detect:  NumBytes = 6, MEGGER
+04/07 13:35:55.090 (+    0) <<30196>>(RTS) Ether Detect:  NumBytes = 38, SMRT-202507070001-46P-11 min-6.41200-A
+04/07 13:35:55.090 (+    0) <<30196>>(RTS) Ether Detect:  NumBytes = 6, MEGGER
+04/07 13:35:55.090 (+    0) <<30196>>(RTS) Ether Detect:  NumBytes = 38, SMRT-202507070001-46P-11 min-6.41200-A
+04/07 13:35:57.604 (+ 2514) <<30196>>(RTS) m_DetectedIp = 169.254.219.227
+04/07 13:35:57.827 (+  223) <<30196>>(RTS) Testing connection...
+04/07 13:35:58.033 (+  206) <<30196>>(RTS) WRITE: qg,
+04/07 13:35:58.033 (+    0) <<30196>>(RTS) READ: GATE0000;
+04/07 13:35:58.033 (+    0) <<30196>>(RTS) Connection status: OK
+04/07 13:35:58.033 (+    0) <<30196>>(RTS) OPEN SOCKET at IP Address '169.254.219.227' : 8000
+04/07 13:35:58.033 (+    0) <<30196>>(RTS) Device opened
+04/07 13:35:58.145 (+  112) <<30196>>(RTS) WRITE: HSU;
+04/07 13:35:58.208 (+   63) <<30196>>(RTS) READ: HSU;
+04/07 13:35:58.319 (+  111) <<30196>>(RTS) WRITE: QC;
+04/07 13:35:58.328 (+    9) <<30196>>(RTS) READ:
+04/07 13:35:58.328 (+    0) <<30196>>(RTS) <G4>,<Model:SMRT46P><VER><12,23,25><Rel_>,<IO><10,6><SN><202507070001>,/<G><1><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1725SM00001><DspRev:2.00><GenSn:202506081028><GenBoardSn:><PfcSn:><PfcType:0131>/,/<G><2><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1425SM00158><DspRev:2.00><GenSn:202506081029><GenBoardSn:><PfcSn:><PfcType:0131>/,/<G><3><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1425SM00054><DspRev:2.00><GenSn:202504081083><GenBoardSn:><PfcSn:><PfcType:0
+04/07 13:35:58.328 (+    0) <<30196>>(RTS) 000>/,/<G><4><VER><6.41200><GenRev:4.00>,<0><V><CalRev:2.10><DspBoardSn:1725SM00001><DspRev:2.00><GenSn:202506081155><GenBoardSn:><PfcSn:><PfcType:0000>/,<SMRT><PN:SMRT46-30P0F1A0S1><SysBdAsySn:202506081155><SysBoardType:5.2,A><IEC61850:0><AdvSoft:0><BIS0>;
+04/07 13:35:58.430 (+  102) <<30196>>(RTS) WRITE: flag:rogkey:qry,
+04/07 13:35:58.430 (+    0) <<30196>>(RTS) READ: 0;
+04/07 13:35:58.430 (+    0) <<30196>>(RTS) NumCurrentOnlyChans = 3
+04/07 13:35:58.446 (+   16) <<30196>>(RTS) GetSmrtInfo  bSmrt = 1
+04/07 13:35:58.557 (+  111) <<30196>>(RTS) WRITE: QC,
+04/07 13:35:58.558 (+    1) <<30196>>(RTS) READ:
+04/07 13:35:58.558 (+    0) <<30196>>(RTS) <G4>,<Model:SMRT46P><VER><12,23,25><Rel_>,<IO><10,6><SN><202507070001>,/<G><1><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1725SM00001><DspRev:2.00><GenSn:202506081028><GenBoardSn:><PfcSn:><PfcType:0131>/,/<G><2><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1425SM00158><DspRev:2.00><GenSn:202506081029><GenBoardSn:><PfcSn:><PfcType:0131>/,/<G><3><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1425SM00054><DspRev:2.00><GenSn:202504081083><GenBoardSn:><PfcSn:><PfcType:0
+04/07 13:35:58.558 (+    0) <<30196>>(RTS) 000>/,/<G><4><VER><6.41200><GenRev:4.00>,<0><V><CalRev:2.10><DspBoardSn:1725SM00001><DspRev:2.00><GenSn:202506081155><GenBoardSn:><PfcSn:><PfcType:0000>/,<SMRT><PN:SMRT46-30P0F1A0S1><SysBdAsySn:202506081155><SysBoardType:5.2,A><IEC61850:0><AdvSoft:0><BIS0>;
+04/07 13:35:58.558 (+    0) <<30196>>(RTS) WRITE: MPRTMODEOF,
+04/07 13:35:58.669 (+  111) <<30196>>(RTS) WRITE: QC;
+04/07 13:35:58.669 (+    0) <<30196>>(RTS) READ:
+04/07 13:35:58.669 (+    0) <<30196>>(RTS) <G4>,<Model:SMRT46P><VER><12,23,25><Rel_>,<IO><10,6><SN><202507070001>,/<G><1><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1725SM00001><DspRev:2.00><GenSn:202506081028><GenBoardSn:><PfcSn:><PfcType:0131>/,/<G><2><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1425SM00158><DspRev:2.00><GenSn:202506081029><GenBoardSn:><PfcSn:><PfcType:0131>/,/<G><3><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1425SM00054><DspRev:2.00><GenSn:202504081083><GenBoardSn:><PfcSn:><PfcType:0
+04/07 13:35:58.669 (+    0) <<30196>>(RTS) 000>/,/<G><4><VER><6.41200><GenRev:4.00>,<0><V><CalRev:2.10><DspBoardSn:1725SM00001><DspRev:2.00><GenSn:202506081155><GenBoardSn:><PfcSn:><PfcType:0000>/,<SMRT><PN:SMRT46-30P0F1A0S1><SysBdAsySn:202506081155><SysBoardType:5.2,A><IEC61850:0><AdvSoft:0><BIS0>;
+04/07 13:35:58.780 (+  111) <<30196>>(RTS) WRITE: flag:rogkey:qry,
+04/07 13:35:58.780 (+    0) <<30196>>(RTS) READ: 0;
+04/07 13:35:58.780 (+    0) <<30196>>(RTS) NumCurrentOnlyChans = 3
+04/07 13:35:58.796 (+   16) <<30196>>(RTS) GetSmrtInfo  bSmrt = 1
+04/07 13:35:58.907 (+  111) <<30196>>(RTS) WRITE: QC;
+04/07 13:35:58.915 (+    8) <<30196>>(RTS) READ:
+04/07 13:35:58.915 (+    0) <<30196>>(RTS) <G4>,<Model:SMRT46P><VER><12,23,25><Rel_>,<IO><10,6><SN><202507070001>,/<G><1><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1725SM00001><DspRev:2.00><GenSn:202506081028><GenBoardSn:><PfcSn:><PfcType:0131>/,/<G><2><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1425SM00158><DspRev:2.00><GenSn:202506081029><GenBoardSn:><PfcSn:><PfcType:0131>/,/<G><3><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1425SM00054><DspRev:2.00><GenSn:202504081083><GenBoardSn:><PfcSn:><PfcType:0
+04/07 13:35:58.915 (+    0) <<30196>>(RTS) 000>/,/<G><4><VER><6.41200><GenRev:4.00>,<0><V><CalRev:2.10><DspBoardSn:1725SM00001><DspRev:2.00><GenSn:202506081155><GenBoardSn:><PfcSn:><PfcType:0000>/,<SMRT><PN:SMRT46-30P0F1A0S1><SysBdAsySn:202506081155><SysBoardType:5.2,A><IEC61850:0><AdvSoft:0><BIS0>;
+04/07 13:35:59.017 (+  102) <<30196>>(RTS) WRITE: flag:rogkey:qry,
+04/07 13:35:59.017 (+    0) <<30196>>(RTS) READ: 0;
+04/07 13:35:59.097 (+   80) <<30196>>(RTS) WRITE: QVER;
+04/07 13:35:59.097 (+    0) <<30196>>(RTS) READ: DSP0:6.41200,CPLD:8,Boot:1.052;DSP1:6.41200,CPLD:8,Boot:1.052;DSP2:6.41200,CPLD:8,Boot:1.052;
+04/07 13:35:59.208 (+  111) <<30196>>(RTS) WRITE: QIP;
+04/07 13:35:59.209 (+    1) <<30196>>(RTS) READ: 169.254.219.227,AutoCFG;
+04/07 13:35:59.319 (+  110) <<30196>>(RTS) WRITE: WHOAMI;
+04/07 13:35:59.324 (+    5) <<30196>>(RTS) READ: <M - IP=169.254.219.227, MAC=00:26:a1:02:89:81><2><S0 - IP=169.254.13.80, MAC=00:26:a1:02:89:4e><S1 - IP=169.254.200.1, MAC=00:26:a1:02:89:38>;
+04/07 13:35:59.431 (+  107) <<30196>>(RTS) WRITE: QRYALL,
+04/07 13:35:59.431 (+    0) <<30196>>(RTS) READ: V,0,10,0.0,0.0,0.000,60.000,0,20,0.0,0.0,0.000,60.000,0,30,0.0,0.0,0.000,60.000,0,40,0.0,0.0,360.000,60.000,I,0,11,0.0,0.0,0.000,60.000,0,21,0.0,0.0,0.000,60.000,0,31,0.0,0.0,0.000,60.000,BI,0000000000,BO,000000,EV,0,T,0.0000,T01,0.0,T02,0.0,T03,0.0,T04,0.0,T05,0.0,T06,0.0,T07,0.0,T08,0.0,T09,0.0,T10,0.0,P8000,16,P8k2,0,VDC,NA,BootCnt:40,DCAP0,Tmax,39.50,12,SMRT,SSF:NA,44.04,63.75,;
+04/07 13:35:59.542 (+  111) <<30196>>(RTS) WRITE: qboot1,
+04/07 13:35:59.542 (+    0) <<30196>>(RTS) READ: boot:1;
+04/07 13:35:59.653 (+  111) <<30196>>(RTS) WRITE: qboot2,
+04/07 13:35:59.653 (+    0) <<30196>>(RTS) READ: boot:1;
+04/07 13:35:59.764 (+  111) <<30196>>(RTS) WRITE: qboot3,
+04/07 13:36:00.767 (+ 1003) <<30196>>(RTS) READ 0 BYTES
+04/07 13:36:00.878 (+  111) <<30196>>(RTS) WRITE: qboot4,
+04/07 13:36:01.882 (+ 1004) <<30196>>(RTS) READ 0 BYTES
+04/07 13:36:01.992 (+  110) <<30196>>(RTS) WRITE: SYSSETF,
+04/07 13:36:01.992 (+    0) <<30196>>(RTS) READ: Done!!;
+04/07 13:36:01.992 (+    0) <<30196>>(RTS) WRITE: SU;
+04/07 13:36:03.123 (+ 1131) <<30196>>(RTS) WRITE: QRYMAX,
+04/07 13:36:03.123 (+    0) <<30196>>(RTS) READ: V,300.000,300.000,300.000,150.0000,I,60.000,60.000,60.000,conti,32.000,32.000,32.000;

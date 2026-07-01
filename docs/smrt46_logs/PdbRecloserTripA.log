@@ -1,0 +1,109 @@
+04/15 10:45:46.654 (+ 1009) <<25144>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/15 10:45:47.863 (+ 1209) <<25144>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/15 10:45:47.863 (+    0) <<25144>>OnUpdate Timing
+04/15 10:45:47.871 (+    8) <<25144>>OnUpdate Timing
+04/15 10:45:47.962 (+   91) <<25144>>ADO Recordset Open SQL Str 5235464 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/15 10:45:47.971 (+    9) <<25144>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/15 10:45:48.659 (+  688) <<25144>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/15 10:45:49.586 (+  927) <<25144>>ADO Recordset Open SQL Str 5236560 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/15 10:45:49.645 (+   59) <<25144>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/15 10:45:49.983 (+  338) <<25144>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/15 10:45:49.983 (+    0) <<25144>>OnUpdate Timing
+04/15 10:45:49.983 (+    0) <<25144>>ADO Recordset Open SQL Str 5232108 SELECT CurveGuid,DateModified,DateSynch,CurveType,Manufacturer,Model,CurveName,ScaleType,ResetEquation,Notes,CurveDataBin,bIsDel,DeleteInfo,Family,TripUnit,XmlData,SynchWriteDate,StatFlg,bLocked,LockInfo FROM Curves   WHERE ( Manufacturer = 'ANSI'  AND (  Model = 'All'  OR Model LIKE '%,All' OR Model LIKE '%,All,%' OR Model LIKE 'All,%' OR Model LIKE '%, All' OR Model LIKE '%, All ,%' OR Model LIKE 'All ,%' OR Model LIKE '%, All,%' OR Model LIKE '%,All ,%'  )  AND CurveName = 'Extremely Inverse' AND bIsDel = 0  AND CurveType = 'Overcurrent'  ) 
+04/15 10:45:49.983 (+    0) <<25144>>ADO Recordset Open SQL Str 5232580 SELECT CurveGuid,DateModified,DateSynch,CurveType,Manufacturer,Model,CurveName,ScaleType,ResetEquation,Notes,CurveDataBin,bIsDel,DeleteInfo,Family,TripUnit,XmlData,SynchWriteDate,StatFlg,bLocked,LockInfo FROM Curves   WHERE ( Manufacturer = 'ANSI'  AND (  Model = 'All'  OR Model LIKE '%,All' OR Model LIKE '%,All,%' OR Model LIKE 'All,%' OR Model LIKE '%, All' OR Model LIKE '%, All ,%' OR Model LIKE 'All ,%' OR Model LIKE '%, All,%' OR Model LIKE '%,All ,%'  )  AND CurveName = 'Extremely Inverse' AND bIsDel = 0  AND CurveType = 'Overcurrent'  ) 
+04/15 10:45:49.999 (+   16) <<25144>>Automation - 1: 2
+
+04/15 10:45:50.110 (+  111) <<25144>>Profiler[calccurve] counts:2, elapsed:128, total:238, avg:119.0 max:128, min:110
+
+04/15 10:45:50.110 (+    0) <<25144>>ADO Recordset Open SQL Str 5231852 SELECT ScaleType FROM Curves WHERE CurveType = 'Overcurrent' AND Manufacturer = 'ANSI' AND Model = 'All' AND CurveName = 'Extremely Inverse'  
+04/15 10:45:50.114 (+    4) <<25144>>OnUpdate Timing
+04/15 10:45:50.114 (+    0) <<25144>>ADO Recordset Open SQL Str 5232108 SELECT CurveGuid,DateModified,DateSynch,CurveType,Manufacturer,Model,CurveName,ScaleType,ResetEquation,Notes,CurveDataBin,bIsDel,DeleteInfo,Family,TripUnit,XmlData,SynchWriteDate,StatFlg,bLocked,LockInfo FROM Curves   WHERE ( Manufacturer = 'ANSI'  AND (  Model = 'All'  OR Model LIKE '%,All' OR Model LIKE '%,All,%' OR Model LIKE 'All,%' OR Model LIKE '%, All' OR Model LIKE '%, All ,%' OR Model LIKE 'All ,%' OR Model LIKE '%, All,%' OR Model LIKE '%,All ,%'  )  AND CurveName = 'Extremely Inverse' AND bIsDel = 0  AND CurveType = 'Overcurrent'  ) 
+04/15 10:45:50.114 (+    0) <<25144>>ADO Recordset Open SQL Str 5232580 SELECT CurveGuid,DateModified,DateSynch,CurveType,Manufacturer,Model,CurveName,ScaleType,ResetEquation,Notes,CurveDataBin,bIsDel,DeleteInfo,Family,TripUnit,XmlData,SynchWriteDate,StatFlg,bLocked,LockInfo FROM Curves   WHERE ( Manufacturer = 'ANSI'  AND (  Model = 'All'  OR Model LIKE '%,All' OR Model LIKE '%,All,%' OR Model LIKE 'All,%' OR Model LIKE '%, All' OR Model LIKE '%, All ,%' OR Model LIKE 'All ,%' OR Model LIKE '%, All,%' OR Model LIKE '%,All ,%'  )  AND CurveName = 'Extremely Inverse' AND bIsDel = 0  AND CurveType = 'Overcurrent'  ) 
+04/15 10:45:50.127 (+   13) <<25144>>Automation - 1: 2
+
+04/15 10:45:50.242 (+  115) <<25144>>Profiler[calccurve] counts:3, elapsed:116, total:354, avg:118.0 max:128, min:110
+
+04/15 10:45:50.244 (+    2) <<25144>>ADO Recordset Open SQL Str 5231852 SELECT ScaleType FROM Curves WHERE CurveType = 'Overcurrent' AND Manufacturer = 'ANSI' AND Model = 'All' AND CurveName = 'Extremely Inverse'  
+04/15 10:45:50.449 (+  205) <<29556>>Fault Type = ABC -- Amp. = 69.000000 -- Direction = None -- PTConn. = WYE -- VRef = NONE -- RefValue = 0.000000 -- RefAngle = 0.000000 -- ElementName = Phase
+04/15 10:45:50.449 (+    0) <<29556>>Fault Type = AN -- Amp. = 69.000000 -- Direction = None -- PTConn. = WYE -- VRef = AN -- RefValue = 0.000000 -- RefAngle = 0.000000 -- ElementName = Phase
+04/15 10:45:50.655 (+  206) <<25144>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/15 10:45:50.744 (+   89) <<25144>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/15 10:45:50.746 (+    2) <<25144>>OnUpdate Timing
+04/15 10:45:50.747 (+    1) <<25144>>ADO Recordset Open SQL Str 5232108 SELECT CurveGuid,DateModified,DateSynch,CurveType,Manufacturer,Model,CurveName,ScaleType,ResetEquation,Notes,CurveDataBin,bIsDel,DeleteInfo,Family,TripUnit,XmlData,SynchWriteDate,StatFlg,bLocked,LockInfo FROM Curves   WHERE ( Manufacturer = 'ANSI'  AND (  Model = 'All'  OR Model LIKE '%,All' OR Model LIKE '%,All,%' OR Model LIKE 'All,%' OR Model LIKE '%, All' OR Model LIKE '%, All ,%' OR Model LIKE 'All ,%' OR Model LIKE '%, All,%' OR Model LIKE '%,All ,%'  )  AND CurveName = 'Extremely Inverse' AND bIsDel = 0  AND CurveType = 'Overcurrent'  ) 
+04/15 10:45:50.749 (+    2) <<25144>>ADO Recordset Open SQL Str 5232580 SELECT CurveGuid,DateModified,DateSynch,CurveType,Manufacturer,Model,CurveName,ScaleType,ResetEquation,Notes,CurveDataBin,bIsDel,DeleteInfo,Family,TripUnit,XmlData,SynchWriteDate,StatFlg,bLocked,LockInfo FROM Curves   WHERE ( Manufacturer = 'ANSI'  AND (  Model = 'All'  OR Model LIKE '%,All' OR Model LIKE '%,All,%' OR Model LIKE 'All,%' OR Model LIKE '%, All' OR Model LIKE '%, All ,%' OR Model LIKE 'All ,%' OR Model LIKE '%, All,%' OR Model LIKE '%,All ,%'  )  AND CurveName = 'Extremely Inverse' AND bIsDel = 0  AND CurveType = 'Overcurrent'  ) 
+04/15 10:45:50.758 (+    9) <<25144>>Automation - 1: 2
+
+04/15 10:45:50.874 (+  116) <<25144>>Profiler[calccurve] counts:4, elapsed:120, total:474, avg:118.5 max:128, min:110
+
+04/15 10:45:50.875 (+    1) <<25144>>ADO Recordset Open SQL Str 5231852 SELECT ScaleType FROM Curves WHERE CurveType = 'Overcurrent' AND Manufacturer = 'ANSI' AND Model = 'All' AND CurveName = 'Extremely Inverse'  
+04/15 10:45:50.876 (+    1) <<25144>>OnUpdate Timing
+04/15 10:45:50.876 (+    0) <<25144>>ADO Recordset Open SQL Str 5232108 SELECT CurveGuid,DateModified,DateSynch,CurveType,Manufacturer,Model,CurveName,ScaleType,ResetEquation,Notes,CurveDataBin,bIsDel,DeleteInfo,Family,TripUnit,XmlData,SynchWriteDate,StatFlg,bLocked,LockInfo FROM Curves   WHERE ( Manufacturer = 'ANSI'  AND (  Model = 'All'  OR Model LIKE '%,All' OR Model LIKE '%,All,%' OR Model LIKE 'All,%' OR Model LIKE '%, All' OR Model LIKE '%, All ,%' OR Model LIKE 'All ,%' OR Model LIKE '%, All,%' OR Model LIKE '%,All ,%'  )  AND CurveName = 'Extremely Inverse' AND bIsDel = 0  AND CurveType = 'Overcurrent'  ) 
+04/15 10:45:50.876 (+    0) <<25144>>ADO Recordset Open SQL Str 5232580 SELECT CurveGuid,DateModified,DateSynch,CurveType,Manufacturer,Model,CurveName,ScaleType,ResetEquation,Notes,CurveDataBin,bIsDel,DeleteInfo,Family,TripUnit,XmlData,SynchWriteDate,StatFlg,bLocked,LockInfo FROM Curves   WHERE ( Manufacturer = 'ANSI'  AND (  Model = 'All'  OR Model LIKE '%,All' OR Model LIKE '%,All,%' OR Model LIKE 'All,%' OR Model LIKE '%, All' OR Model LIKE '%, All ,%' OR Model LIKE 'All ,%' OR Model LIKE '%, All,%' OR Model LIKE '%,All ,%'  )  AND CurveName = 'Extremely Inverse' AND bIsDel = 0  AND CurveType = 'Overcurrent'  ) 
+04/15 10:45:50.876 (+    0) <<25144>>Automation - 1: 2
+
+04/15 10:45:50.992 (+  116) <<25144>>Profiler[calccurve] counts:5, elapsed:116, total:590, avg:118.0 max:128, min:110
+
+04/15 10:45:50.993 (+    1) <<25144>>ADO Recordset Open SQL Str 5231852 SELECT ScaleType FROM Curves WHERE CurveType = 'Overcurrent' AND Manufacturer = 'ANSI' AND Model = 'All' AND CurveName = 'Extremely Inverse'  
+04/15 10:45:51.551 (+  558) <<25144>>ADO Recordset Open SQL Str 5236560 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/15 10:45:51.651 (+  100) <<25144>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/15 10:45:52.489 (+  838) <<25144>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/15 10:45:52.489 (+    0) <<25144>>OnUpdate Timing
+04/15 10:45:52.494 (+    5) <<25144>>ADO Recordset Open SQL Str 5232108 SELECT CurveGuid,DateModified,DateSynch,CurveType,Manufacturer,Model,CurveName,ScaleType,ResetEquation,Notes,CurveDataBin,bIsDel,DeleteInfo,Family,TripUnit,XmlData,SynchWriteDate,StatFlg,bLocked,LockInfo FROM Curves   WHERE ( Manufacturer = 'ANSI'  AND (  Model = 'All'  OR Model LIKE '%,All' OR Model LIKE '%,All,%' OR Model LIKE 'All,%' OR Model LIKE '%, All' OR Model LIKE '%, All ,%' OR Model LIKE 'All ,%' OR Model LIKE '%, All,%' OR Model LIKE '%,All ,%'  )  AND CurveName = 'Extremely Inverse' AND bIsDel = 0  AND CurveType = 'Overcurrent'  ) 
+04/15 10:45:52.494 (+    0) <<25144>>ADO Recordset Open SQL Str 5232580 SELECT CurveGuid,DateModified,DateSynch,CurveType,Manufacturer,Model,CurveName,ScaleType,ResetEquation,Notes,CurveDataBin,bIsDel,DeleteInfo,Family,TripUnit,XmlData,SynchWriteDate,StatFlg,bLocked,LockInfo FROM Curves   WHERE ( Manufacturer = 'ANSI'  AND (  Model = 'All'  OR Model LIKE '%,All' OR Model LIKE '%,All,%' OR Model LIKE 'All,%' OR Model LIKE '%, All' OR Model LIKE '%, All ,%' OR Model LIKE 'All ,%' OR Model LIKE '%, All,%' OR Model LIKE '%,All ,%'  )  AND CurveName = 'Extremely Inverse' AND bIsDel = 0  AND CurveType = 'Overcurrent'  ) 
+04/15 10:45:52.494 (+    0) <<25144>>Automation - 1: 2
+
+04/15 10:45:52.622 (+  128) <<25144>>Profiler[calccurve] counts:6, elapsed:128, total:718, avg:119.7 max:128, min:110
+
+04/15 10:45:52.624 (+    2) <<25144>>ADO Recordset Open SQL Str 5231852 SELECT ScaleType FROM Curves WHERE CurveType = 'Overcurrent' AND Manufacturer = 'ANSI' AND Model = 'All' AND CurveName = 'Extremely Inverse'  
+04/15 10:45:52.624 (+    0) <<25144>>OnUpdate Timing
+04/15 10:45:52.624 (+    0) <<25144>>ADO Recordset Open SQL Str 5232108 SELECT CurveGuid,DateModified,DateSynch,CurveType,Manufacturer,Model,CurveName,ScaleType,ResetEquation,Notes,CurveDataBin,bIsDel,DeleteInfo,Family,TripUnit,XmlData,SynchWriteDate,StatFlg,bLocked,LockInfo FROM Curves   WHERE ( Manufacturer = 'ANSI'  AND (  Model = 'All'  OR Model LIKE '%,All' OR Model LIKE '%,All,%' OR Model LIKE 'All,%' OR Model LIKE '%, All' OR Model LIKE '%, All ,%' OR Model LIKE 'All ,%' OR Model LIKE '%, All,%' OR Model LIKE '%,All ,%'  )  AND CurveName = 'Extremely Inverse' AND bIsDel = 0  AND CurveType = 'Overcurrent'  ) 
+04/15 10:45:52.624 (+    0) <<25144>>ADO Recordset Open SQL Str 5232580 SELECT CurveGuid,DateModified,DateSynch,CurveType,Manufacturer,Model,CurveName,ScaleType,ResetEquation,Notes,CurveDataBin,bIsDel,DeleteInfo,Family,TripUnit,XmlData,SynchWriteDate,StatFlg,bLocked,LockInfo FROM Curves   WHERE ( Manufacturer = 'ANSI'  AND (  Model = 'All'  OR Model LIKE '%,All' OR Model LIKE '%,All,%' OR Model LIKE 'All,%' OR Model LIKE '%, All' OR Model LIKE '%, All ,%' OR Model LIKE 'All ,%' OR Model LIKE '%, All,%' OR Model LIKE '%,All ,%'  )  AND CurveName = 'Extremely Inverse' AND bIsDel = 0  AND CurveType = 'Overcurrent'  ) 
+04/15 10:45:52.643 (+   19) <<25144>>Automation - 1: 2
+
+04/15 10:45:52.749 (+  106) <<25144>>Profiler[calccurve] counts:7, elapsed:125, total:843, avg:120.4 max:128, min:110
+
+04/15 10:45:52.750 (+    1) <<25144>>ADO Recordset Open SQL Str 5231852 SELECT ScaleType FROM Curves WHERE CurveType = 'Overcurrent' AND Manufacturer = 'ANSI' AND Model = 'All' AND CurveName = 'Extremely Inverse'  
+04/15 10:45:52.829 (+   79) <<25144>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/15 10:45:53.561 (+  732) <<25144>>ADO Recordset Open SQL Str 5236560 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/15 10:45:53.656 (+   95) <<25144>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/15 10:45:54.230 (+  574) <<29556>>Non-empty response: ERROR: Open circuit alarm  on C2 |
+04/15 10:45:54.659 (+  429) <<25144>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/15 10:45:55.023 (+  364) <<29556>>ADO Recordset Open SQL Str 790619628 SELECT CurveGuid,DateModified,DateSynch,CurveType,Manufacturer,Model,CurveName,ScaleType,ResetEquation,Notes,CurveDataBin,bIsDel,DeleteInfo,Family,TripUnit,XmlData,SynchWriteDate,StatFlg,bLocked,LockInfo FROM Curves   WHERE ( Manufacturer = 'ANSI'  AND (  Model = 'All'  OR Model LIKE '%,All' OR Model LIKE '%,All,%' OR Model LIKE 'All,%' OR Model LIKE '%, All' OR Model LIKE '%, All ,%' OR Model LIKE 'All ,%' OR Model LIKE '%, All,%' OR Model LIKE '%,All ,%'  )  AND CurveName = 'Extremely Inverse' AND bIsDel = 0  AND CurveType = 'Overcurrent'  ) 
+04/15 10:45:55.025 (+    2) <<29556>>ADO Recordset Open SQL Str 790620100 SELECT CurveGuid,DateModified,DateSynch,CurveType,Manufacturer,Model,CurveName,ScaleType,ResetEquation,Notes,CurveDataBin,bIsDel,DeleteInfo,Family,TripUnit,XmlData,SynchWriteDate,StatFlg,bLocked,LockInfo FROM Curves   WHERE ( Manufacturer = 'ANSI'  AND (  Model = 'All'  OR Model LIKE '%,All' OR Model LIKE '%,All,%' OR Model LIKE 'All,%' OR Model LIKE '%, All' OR Model LIKE '%, All ,%' OR Model LIKE 'All ,%' OR Model LIKE '%, All,%' OR Model LIKE '%,All ,%'  )  AND CurveName = 'Extremely Inverse' AND bIsDel = 0  AND CurveType = 'Overcurrent'  ) 
+04/15 10:45:55.030 (+    5) <<29556>>Automation - 1: 2
+
+04/15 10:45:55.143 (+  113) <<29556>>Profiler[calccurve] counts:8, elapsed:112, total:955, avg:119.4 max:128, min:110
+
+04/15 10:45:55.143 (+    0) <<29556>>ADO Recordset Open SQL Str 790619372 SELECT ScaleType FROM Curves WHERE CurveType = 'Overcurrent' AND Manufacturer = 'ANSI' AND Model = 'All' AND CurveName = 'Extremely Inverse'  
+04/15 10:45:55.242 (+   99) <<25144>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/15 10:45:55.242 (+    0) <<25144>>OnUpdate Timing
+04/15 10:45:55.242 (+    0) <<25144>>OnUpdate Timing
+04/15 10:45:55.566 (+  324) <<25144>>ADO Recordset Open SQL Str 5236560 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/15 10:45:55.646 (+   80) <<25144>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/15 10:45:56.660 (+ 1014) <<25144>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/15 10:45:57.582 (+  922) <<25144>>ADO Recordset Open SQL Str 5236560 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/15 10:45:57.662 (+   80) <<25144>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/15 10:45:58.662 (+ 1000) <<25144>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/15 10:45:59.584 (+  922) <<25144>>ADO Recordset Open SQL Str 5236560 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/15 10:45:59.663 (+   79) <<25144>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/15 10:46:00.663 (+ 1000) <<25144>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+

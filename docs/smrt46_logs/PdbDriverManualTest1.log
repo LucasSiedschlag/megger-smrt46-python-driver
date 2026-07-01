@@ -1,0 +1,259 @@
+
+04/10 10:14:13.380 (+18996) <<33976>>(RTS) Start of prefault / fault
+04/10 10:14:13.403 (+   23) <<33976>>(RTS) CDriver::SimpleReset()
+04/10 10:14:13.507 (+  104) <<33976>>(RTS) WRITE: XU;
+04/10 10:14:13.507 (+    0) <<33976>>(RTS) READ: DONE;
+04/10 10:14:13.507 (+    0) <<33976>>(RTS) ResetVectors()
+04/10 10:14:13.507 (+    0) <<33976>>(RTS) ConfigureEx(before batsim adjustment):  NumConvIRequested = 0, NumConvIAvailable = 3, NumI = 3, NumV = 4, NumCurrentOnlyChans = 3, UseLastVAsBat = 0, HasBatterySim = 0, bHasVGens = 1.
+04/10 10:14:13.507 (+    0) <<33976>>(RTS) ConfigureEx(after batsim adjustment):  NumConvIRequested = 0, NumConvIAvailable = 3, NumI = 3, NumV = 4, NumCurrentOnlyChans = 3, UseLastVAsBat = 0, HasBatterySim = 0, bHasVGens = 1.
+04/10 10:14:13.618 (+  111) <<33976>>(RTS) WRITE: BIV:1:0;
+04/10 10:14:13.618 (+    0) <<33976>>(RTS) READ: OK;
+04/10 10:14:13.729 (+  111) <<33976>>(RTS) WRITE: BIV:2:0;
+04/10 10:14:13.730 (+    1) <<33976>>(RTS) READ: OK;
+04/10 10:14:13.841 (+  111) <<33976>>(RTS) WRITE: QHS,
+04/10 10:14:13.841 (+    0) <<33976>>(RTS) READ: ACK;
+04/10 10:14:13.841 (+    0) <<33976>>(RTS) Sleeping 500 ms followed by RE; due to BIV status change...
+04/10 10:14:14.350 (+  509) <<33976>>(RTS) WRITE: RE;
+04/10 10:14:14.350 (+    0) <<33976>>(RTS) WRITE: T01CAU,T01HD,T01AD,T02CAU,T02HD,T02AD,T03CAU,T03HD,T03AD,T04CAU,T04HD,T04AD,T05CAU,T05HD,T05AD,T06CAU,T06HD,T06AD,T07CAU,T07HD,T07AD,T08CAU,T08HD,T08AD,T09CAU,T09HD,T09AD,T10CAU,T10HD,T10AD,TR,
+04/10 10:14:14.350 (+    0) <<33976>>(RTS) MonitorMode for BIN 1 = 
+04/10 10:14:14.350 (+    0) <<33976>>(RTS) LatchMonitor for BIN 1 = 1
+04/10 10:14:14.350 (+    0) <<33976>>(RTS) WRITE: t01m,t01sto,t01cal,VFMIN40E,VFMIN00O,,TR,
+04/10 10:14:14.461 (+  111) <<33976>>(RTS) WRITE: OCA:ON,
+04/10 10:14:14.636 (+  175) <<33976>>(RTS) WRITE: td2,DISON,HBOFF,HBV:OFF,v1,scale1.000,v2,scale1.000,v3,scale1.000,v4,scale1.000,c1,scale1.000,c2,scale1.000,c3,scale1.000,MAXV0.000000,MAXI0.000000,QHS,
+04/10 10:14:14.668 (+   32) <<33976>>(RTS) READ: ACK;
+04/10 10:14:14.779 (+  111) <<33976>>(RTS) WRITE: V1,DFLACON,DFLDCON,V2,DFLACON,DFLDCON,V3,DFLACON,DFLDCON,V4,DFLACON,DFLDCON,QHS,
+04/10 10:14:14.779 (+    0) <<33976>>(RTS) READ: ACK;
+04/10 10:14:14.891 (+  112) <<33976>>(RTS) WRITE: C1,DFLACON,DFLDCON,C2,DFLACON,DFLDCON,C3,DFLACON,DFLDCON;QHS,
+04/10 10:14:14.923 (+   32) <<33976>>(RTS) READ: ACK;
+04/10 10:14:14.924 (+    1) <<33976>>(RTS) WRITE: VASBAT0,T01AE:C0V0,parallel1,HEARTBEAT7,
+04/10 10:14:14.924 (+    0) <<33976>>(RTS) WRITE: ldlg01,
+04/10 10:14:14.924 (+    0) <<33976>>(RTS) WRITE: irigb0,iwfs0,
+04/10 10:14:15.034 (+  110) <<33976>>(RTS) WRITE: QRYMAX,
+04/10 10:14:15.037 (+    3) <<33976>>(RTS) READ: V,300.000,300.000,300.000,150.0000,I,60.000,60.000,60.000,conti,32.000,32.000,32.000;
+04/10 10:14:15.145 (+  108) <<33976>>(RTS) WRITE: QRYALL,
+04/10 10:14:15.145 (+    0) <<33976>>(RTS) READ: V,0,10,0.0,0.0,0.000,0.000,0,20,0.0,0.0,0.000,0.000,0,30,0.0,0.0,0.000,0.000,0,40,0.0,0.0,360.000,60.000,I,0,11,0.0,0.0,0.000,60.000,0,21,0.0,0.0,0.000,60.000,0,31,0.0,0.0,0.000,60.000,BI,0000000000,BO,000000,EV,0,T,0.0000,T01,0.0,T02,0.0,T03,0.0,T04,0.0,T05,0.0,T06,0.0,T07,0.0,T08,0.0,T09,0.0,T10,0.0,P8000,125,P8k2,0,VDC,NA,BootCnt:50,DCAP0,Tmax,26.00,12,SMRT,SSF:NA,44.26,67.15,;
+04/10 10:14:15.145 (+    0) <<33976>>(RTS) WRITE: td2,t01m,t01cal,t01HD,TR,
+04/10 10:14:15.256 (+  111) <<33976>>(RTS) WRITE: qg,
+04/10 10:14:15.272 (+   16) <<33976>>(RTS) READ: GATE0000;
+04/10 10:14:15.272 (+    0) <<33976>>(RTS) WRITE: v1,off,v2,p120.000,off,v3,p240.000,off,v4,off,c1,a3.0000,d0,p0.000,f60.000,on,c2,p120.000,off,c3,p240.000,off,TRL,TSOSTA,BO010,BO020,BO030,BO040,BO050,BO060,
+04/10 10:14:15.272 (+    0) <<33976>>(RTS) WRITE: WANYXXXXXXXXX1,
+04/10 10:14:15.272 (+    0) <<33976>>(RTS) WRITE: TSOSTO,
+04/10 10:14:15.272 (+    0) <<33976>>(RTS) WRITE: V0,OF,C0,OF,
+04/10 10:14:15.384 (+  112) <<33976>>(RTS) WRITE: QHS,
+04/10 10:14:15.387 (+    3) <<33976>>(RTS) READ: ACK;
+04/10 10:14:15.387 (+    0) <<33976>>(RTS) WRITE: ;
+04/10 10:14:15.447 (+   60) <<33976>>(RTS) Inside SetChannelOnColor
+04/10 10:14:15.447 (+    0) <<33976>>InsideSetBgColor m_bOn = true bMasterOn = true Tags = IAmp_1,IPhase_1,IFreq_1
+04/10 10:14:15.447 (+    0) <<33976>>InsideSetBgColor m_bOn = false bMasterOn = true Tags = IAmp_2,IPhase_2,IFreq_2
+04/10 10:14:15.447 (+    0) <<33976>>InsideSetBgColor m_bOn = false bMasterOn = true Tags = IAmp_3,IPhase_3,IFreq_3
+04/10 10:14:15.447 (+    0) <<33976>>InsideSetBgColor m_bOn = false bMasterOn = true Tags = VAmp_1,VPhase_1,VFreq_1
+04/10 10:14:15.447 (+    0) <<33976>>InsideSetBgColor m_bOn = false bMasterOn = true Tags = VAmp_2,VPhase_2,VFreq_2
+04/10 10:14:15.447 (+    0) <<33976>>InsideSetBgColor m_bOn = false bMasterOn = true Tags = VAmp_3,VPhase_3,VFreq_3
+04/10 10:14:15.447 (+    0) <<33976>>InsideSetBgColor m_bOn = false bMasterOn = true Tags = VAmp_4,VPhase_4,VFreq_4
+04/10 10:14:15.557 (+  110) <<33976>>(RTS) WRITE: QRYALL,
+04/10 10:14:15.557 (+    0) <<33976>>(RTS) READ: V,0,10,0.0,0.0,0.000,0.000,0,20,0.0,0.0,120.000,0.000,0,30,0.0,0.0,240.000,0.000,0,40,0.0,0.0,360.000,60.000,I,1,11,3.0020,0.0168,0.000,60.000,0,21,0.0,0.0,120.000,60.000,0,31,0.0,0.0,240.000,60.000,BI,0000000000,BO,000000,EV,2,T,0.1195,T01,0.0,T02,0.0,T03,0.0,T04,0.0,T05,0.0,T06,0.0,T07,0.0,T08,0.0,T09,0.0,T10,0.0,P8000,170,P8k2,0,VDC,NA,BootCnt:50,DCAP0,Tmax,26.00,12,SMRT,SSF:NA,46.80,71.40,;
+04/10 10:14:15.557 (+    0) <<33976>>(RTS) Switch to fault mode
+04/10 10:14:15.629 (+   72) <<33976>>(RTS) Contact Time = 7
+04/10 10:14:15.737 (+  108) <<33976>>(RTS) WRITE: QRYALL,
+04/10 10:14:15.737 (+    0) <<33976>>(RTS) READ: V,0,10,0.0,0.0,0.000,0.000,0,20,0.0,0.0,120.000,0.000,0,30,0.0,0.0,240.000,0.000,0,40,0.0,0.0,360.000,60.000,I,1,11,2.9998,0.0102,0.000,60.000,0,21,0.0,0.0,120.000,60.000,0,31,0.0,0.0,240.000,60.000,BI,0000000000,BO,000000,EV,2,T,0.2990,T01,0.0,T02,0.0,T03,0.0,T04,0.0,T05,0.0,T06,0.0,T07,0.0,T08,0.0,T09,0.0,T10,0.0,P8000,171,P8k2,0,VDC,NA,BootCnt:50,DCAP0,Tmax,26.00,12,SMRT,SSF:NA,46.83,48.88,;
+04/10 10:14:16.123 (+  386) <<33976>>(RTS) READ: ERROR: Open circuit alarm  on C1 | 
+04/10 10:14:16.123 (+    0) <<33976>>(RTS) HandleError: Message: Aborting due to unexpected, non-empty response: ERROR: Open circuit alarm  on C1 | 
+04/10 10:14:16.123 (+    0) <<33976>>(RTS) CDriver::Abort()
+04/10 10:14:16.123 (+    0) <<33976>>(RTS) CDriver::SimpleReset()
+04/10 10:14:16.235 (+  112) <<33976>>(RTS) WRITE: XU;
+04/10 10:14:16.235 (+    0) <<33976>>(RTS) READ: DONE;
+04/10 10:14:16.235 (+    0) <<33976>>(RTS) AllOff()
+04/10 10:14:16.235 (+    0) <<33976>>(RTS) WRITE: V0C0,a0;
+04/10 10:14:16.346 (+  111) <<33976>>(RTS) WRITE: QHS,
+04/10 10:14:16.346 (+    0) <<33976>>(RTS) READ: ACK;
+04/10 10:14:16.346 (+    0) <<33976>>(RTS) sleeping 100ms
+04/10 10:14:16.458 (+  112) <<33976>>(RTS) WRITE: C0,off,V0,off;
+04/10 10:14:16.458 (+    0) <<33976>>(RTS) sleeping 100ms
+04/10 10:14:16.569 (+  111) <<33976>>(RTS) WRITE: V1,S,V2,S,V3,S,V4,S,C1,S,C2,S,C3,S;
+04/10 10:14:16.569 (+    0) <<33976>>(RTS) sleeping 100ms
+04/10 10:14:16.680 (+  111) <<33976>>(RTS) ResetVectors()
+04/10 10:14:16.732 (+   52) <<33976>>(RTS) Inside SetChannelOnColor
+04/10 10:14:16.732 (+    0) <<33976>>InsideSetBgColor m_bOn = true bMasterOn = false Tags = IAmp_1,IPhase_1,IFreq_1
+04/10 10:14:16.732 (+    0) <<33976>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = IAmp_2,IPhase_2,IFreq_2
+04/10 10:14:16.732 (+    0) <<33976>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = IAmp_3,IPhase_3,IFreq_3
+04/10 10:14:16.732 (+    0) <<33976>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = VAmp_1,VPhase_1,VFreq_1
+04/10 10:14:16.732 (+    0) <<33976>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = VAmp_2,VPhase_2,VFreq_2
+04/10 10:14:16.732 (+    0) <<33976>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = VAmp_3,VPhase_3,VFreq_3
+04/10 10:14:16.732 (+    0) <<33976>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = VAmp_4,VPhase_4,VFreq_4
+04/10 10:14:18.995 (+ 2263) <<46224>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = IAmp_1,IPhase_1,IFreq_1
+04/10 10:14:19.728 (+  733) <<46224>>InsideSetBgColor m_bOn = true bMasterOn = false Tags = IAmp_2,IPhase_2,IFreq_2
+04/10 10:14:23.766 (+ 4038) <<33976>>(RTS) Start of prefault / fault
+04/10 10:14:23.781 (+   15) <<33976>>(RTS) CDriver::SimpleReset()
+04/10 10:14:23.893 (+  112) <<33976>>(RTS) WRITE: XU;
+04/10 10:14:23.894 (+    1) <<33976>>(RTS) READ: DONE;
+04/10 10:14:23.894 (+    0) <<33976>>(RTS) ResetVectors()
+04/10 10:14:23.894 (+    0) <<33976>>(RTS) ConfigureEx(before batsim adjustment):  NumConvIRequested = 0, NumConvIAvailable = 3, NumI = 3, NumV = 4, NumCurrentOnlyChans = 3, UseLastVAsBat = 0, HasBatterySim = 0, bHasVGens = 1.
+04/10 10:14:23.894 (+    0) <<33976>>(RTS) ConfigureEx(after batsim adjustment):  NumConvIRequested = 0, NumConvIAvailable = 3, NumI = 3, NumV = 4, NumCurrentOnlyChans = 3, UseLastVAsBat = 0, HasBatterySim = 0, bHasVGens = 1.
+04/10 10:14:24.004 (+  110) <<33976>>(RTS) WRITE: BIV:1:0;
+04/10 10:14:24.004 (+    0) <<33976>>(RTS) READ: OK;
+04/10 10:14:24.116 (+  112) <<33976>>(RTS) WRITE: BIV:2:0;
+04/10 10:14:24.116 (+    0) <<33976>>(RTS) READ: OK;
+04/10 10:14:24.227 (+  111) <<33976>>(RTS) WRITE: QHS,
+04/10 10:14:24.227 (+    0) <<33976>>(RTS) READ: ACK;
+04/10 10:14:24.227 (+    0) <<33976>>(RTS) Sleeping 500 ms followed by RE; due to BIV status change...
+04/10 10:14:24.735 (+  508) <<33976>>(RTS) WRITE: RE;
+04/10 10:14:24.736 (+    1) <<33976>>(RTS) WRITE: T01CAU,T01HD,T01AD,T02CAU,T02HD,T02AD,T03CAU,T03HD,T03AD,T04CAU,T04HD,T04AD,T05CAU,T05HD,T05AD,T06CAU,T06HD,T06AD,T07CAU,T07HD,T07AD,T08CAU,T08HD,T08AD,T09CAU,T09HD,T09AD,T10CAU,T10HD,T10AD,TR,
+04/10 10:14:24.736 (+    0) <<33976>>(RTS) MonitorMode for BIN 1 = 
+04/10 10:14:24.736 (+    0) <<33976>>(RTS) LatchMonitor for BIN 1 = 1
+04/10 10:14:24.736 (+    0) <<33976>>(RTS) WRITE: t01m,t01sto,t01cal,VFMIN40E,VFMIN00O,,TR,
+04/10 10:14:24.847 (+  111) <<33976>>(RTS) WRITE: OCA:ON,
+04/10 10:14:25.023 (+  176) <<33976>>(RTS) WRITE: td2,DISON,HBOFF,HBV:OFF,v1,scale1.000,v2,scale1.000,v3,scale1.000,v4,scale1.000,c1,scale1.000,c2,scale1.000,c3,scale1.000,MAXV0.000000,MAXI0.000000,QHS,
+04/10 10:14:25.055 (+   32) <<33976>>(RTS) READ: ACK;
+04/10 10:14:25.167 (+  112) <<33976>>(RTS) WRITE: V1,DFLACON,DFLDCON,V2,DFLACON,DFLDCON,V3,DFLACON,DFLDCON,V4,DFLACON,DFLDCON,QHS,
+04/10 10:14:25.167 (+    0) <<33976>>(RTS) READ: ACK;
+04/10 10:14:25.278 (+  111) <<33976>>(RTS) WRITE: C1,DFLACON,DFLDCON,C2,DFLACON,DFLDCON,C3,DFLACON,DFLDCON;QHS,
+04/10 10:14:25.310 (+   32) <<33976>>(RTS) READ: ACK;
+04/10 10:14:25.310 (+    0) <<33976>>(RTS) WRITE: VASBAT0,T01AE:C0V0,parallel1,HEARTBEAT7,
+04/10 10:14:25.310 (+    0) <<33976>>(RTS) WRITE: ldlg01,
+04/10 10:14:25.310 (+    0) <<33976>>(RTS) WRITE: irigb0,iwfs0,
+04/10 10:14:25.422 (+  112) <<33976>>(RTS) WRITE: QRYMAX,
+04/10 10:14:25.422 (+    0) <<33976>>(RTS) READ: V,300.000,300.000,300.000,150.0000,I,60.000,60.000,60.000,conti,32.000,32.000,32.000;
+04/10 10:14:25.533 (+  111) <<33976>>(RTS) WRITE: QRYALL,
+04/10 10:14:25.533 (+    0) <<33976>>(RTS) READ: V,0,10,0.0,0.0,0.000,0.000,0,20,0.0,0.0,0.000,0.000,0,30,0.0,0.0,0.000,0.000,0,40,0.0,0.0,360.000,60.000,I,0,11,0.0,0.0,0.000,60.000,0,21,0.0,0.0,0.000,60.000,0,31,0.0,0.0,0.000,60.000,BI,0000000000,BO,000000,EV,0,T,0.0000,T01,0.0,T02,0.0,T03,0.0,T04,0.0,T05,0.0,T06,0.0,T07,0.0,T08,0.0,T09,0.0,T10,0.0,P8000,295,P8k2,0,VDC,NA,BootCnt:50,DCAP0,Tmax,26.25,12,SMRT,SSF:NA,44.70,68.85,;
+04/10 10:14:25.533 (+    0) <<33976>>(RTS) WRITE: td2,t01m,t01cal,t01HD,TR,
+04/10 10:14:25.646 (+  113) <<33976>>(RTS) WRITE: qg,
+04/10 10:14:25.666 (+   20) <<33976>>(RTS) READ: GATE0000;
+04/10 10:14:25.666 (+    0) <<33976>>(RTS) WRITE: v1,off,v2,p120.000,off,v3,p240.000,off,v4,off,c1,a0.0000,d0,p0.000,off,c2,a5.0000,d0,p120.000,f60.000,on,c3,p240.000,off,TRL,TSOSTA,BO010,BO020,BO030,BO040,BO050,BO060,
+04/10 10:14:25.666 (+    0) <<33976>>(RTS) WRITE: WANYXXXXXXXXX1,
+04/10 10:14:25.666 (+    0) <<33976>>(RTS) WRITE: TSOSTO,
+04/10 10:14:25.668 (+    2) <<33976>>(RTS) WRITE: V0,OF,C0,OF,
+04/10 10:14:25.777 (+  109) <<33976>>(RTS) WRITE: QHS,
+04/10 10:14:25.781 (+    4) <<33976>>(RTS) READ: ACK;
+04/10 10:14:25.781 (+    0) <<33976>>(RTS) WRITE: ;
+04/10 10:14:25.840 (+   59) <<33976>>(RTS) Inside SetChannelOnColor
+04/10 10:14:25.840 (+    0) <<33976>>InsideSetBgColor m_bOn = false bMasterOn = true Tags = IAmp_1,IPhase_1,IFreq_1
+04/10 10:14:25.840 (+    0) <<33976>>InsideSetBgColor m_bOn = true bMasterOn = true Tags = IAmp_2,IPhase_2,IFreq_2
+04/10 10:14:25.841 (+    1) <<33976>>InsideSetBgColor m_bOn = false bMasterOn = true Tags = IAmp_3,IPhase_3,IFreq_3
+04/10 10:14:25.841 (+    0) <<33976>>InsideSetBgColor m_bOn = false bMasterOn = true Tags = VAmp_1,VPhase_1,VFreq_1
+04/10 10:14:25.841 (+    0) <<33976>>InsideSetBgColor m_bOn = false bMasterOn = true Tags = VAmp_2,VPhase_2,VFreq_2
+04/10 10:14:25.841 (+    0) <<33976>>InsideSetBgColor m_bOn = false bMasterOn = true Tags = VAmp_3,VPhase_3,VFreq_3
+04/10 10:14:25.842 (+    1) <<33976>>InsideSetBgColor m_bOn = false bMasterOn = true Tags = VAmp_4,VPhase_4,VFreq_4
+04/10 10:14:25.924 (+   82) <<33976>>(RTS) WRITE: QRYALL,
+04/10 10:14:25.924 (+    0) <<33976>>(RTS) READ: V,0,10,0.0,0.0,0.000,0.000,0,20,0.0,0.0,0.000,0.000,0,30,0.0,0.0,240.000,0.000,0,40,0.0,0.0,360.000,60.000,I,0,11,0.0,0.0,0.000,60.000,1,21,0.0,0.0,120.000,60.000,0,31,0.0,0.0,240.000,60.000,BI,0000000000,BO,000000,EV,2,T,0.0919,T01,0.0,T02,0.0,T03,0.0,T04,0.0,T05,0.0,T06,0.0,T07,0.0,T08,0.0,T09,0.0,T10,0.0,P8000,342,P8k2,0,VDC,NA,BootCnt:50,DCAP0,Tmax,26.25,12,SMRT,SSF:NA,46.34,70.55,;
+04/10 10:14:25.924 (+    0) <<33976>>(RTS) Switch to fault mode
+04/10 10:14:25.988 (+   64) <<33976>>(RTS) Contact Time = 17
+04/10 10:14:26.098 (+  110) <<33976>>(RTS) WRITE: QRYALL,
+04/10 10:14:26.099 (+    1) <<33976>>(RTS) READ: V,0,10,0.0,0.0,0.000,0.000,0,20,0.0,0.0,120.000,0.000,0,30,0.0,0.0,240.000,0.000,0,40,0.0,0.0,360.000,60.000,I,0,11,0.0,0.0,0.000,60.000,1,21,5.0011,0.0173,120.000,60.000,0,31,0.0,0.0,240.000,60.000,BI,0000000000,BO,000000,EV,2,T,0.2672,T01,0.0,T02,0.0,T03,0.0,T04,0.0,T05,0.0,T06,0.0,T07,0.0,T08,0.0,T09,0.0,T10,0.0,P8000,343,P8k2,0,VDC,NA,BootCnt:50,DCAP0,Tmax,26.25,12,SMRT,SSF:NA,46.43,50.15,;
+04/10 10:14:26.289 (+  190) <<33976>>(RTS) WRITE: QRYALL,
+04/10 10:14:26.289 (+    0) <<33976>>(RTS) READ: V,0,10,0.0,0.0,0.000,0.000,0,20,0.0,0.0,120.000,0.000,0,30,0.0,0.0,240.000,0.000,0,40,0.0,0.0,360.000,60.000,I,0,11,0.0,0.0,0.000,60.000,1,21,4.9990,-0.0030,120.000,60.000,0,31,0.0,0.0,240.000,60.000,BI,0000000000,BO,000000,EV,2,T,0.4570,T01,0.0,T02,0.0,T03,0.0,T04,0.0,T05,0.0,T06,0.0,T07,0.0,T08,0.0,T09,0.0,T10,0.0,P8000,344,P8k2,0,VDC,NA,BootCnt:50,DCAP0,Tmax,26.25,12,SMRT,SSF:NA,46.30,49.73,;
+04/10 10:14:26.463 (+  174) <<33976>>(RTS) WRITE: QRYALL,
+04/10 10:14:26.463 (+    0) <<33976>>(RTS) READ: V,0,10,0.0,0.0,0.000,0.000,0,20,0.0,0.0,120.000,0.000,0,30,0.0,0.0,240.000,0.000,0,40,0.0,0.0,360.000,60.000,I,0,11,0.0,0.0,0.000,60.000,1,21,4.9998,0.0028,120.000,60.000,0,31,0.0,0.0,240.000,60.000,BI,0000000000,BO,000000,EV,2,T,0.6314,T01,0.0,T02,0.0,T03,0.0,T04,0.0,T05,0.0,T06,0.0,T07,0.0,T08,0.0,T09,0.0,T10,0.0,P8000,345,P8k2,0,VDC,NA,BootCnt:50,DCAP0,Tmax,26.25,12,SMRT,SSF:NA,46.51,49.73,;
+04/10 10:14:26.638 (+  175) <<33976>>(RTS) WRITE: QRYALL,
+04/10 10:14:26.638 (+    0) <<33976>>(RTS) READ: V,0,10,0.0,0.0,0.000,0.000,0,20,0.0,0.0,120.000,0.000,0,30,0.0,0.0,240.000,0.000,0,40,0.0,0.0,360.000,60.000,I,0,11,0.0,0.0,0.000,60.000,1,21,5.0018,0.0079,120.000,60.000,0,31,0.0,0.0,240.000,60.000,BI,0000000000,BO,000000,EV,2,T,0.8064,T01,0.0,T02,0.0,T03,0.0,T04,0.0,T05,0.0,T06,0.0,T07,0.0,T08,0.0,T09,0.0,T10,0.0,P8000,346,P8k2,0,VDC,NA,BootCnt:50,DCAP0,Tmax,26.25,12,SMRT,SSF:NA,46.44,50.15,;
+04/10 10:14:26.972 (+  334) <<33976>>(RTS) READ: ERROR: Deviation alarm on C2 | 
+04/10 10:14:26.972 (+    0) <<33976>>(RTS) HandleError: Message: Aborting due to unexpected, non-empty response: ERROR: Deviation alarm on C2 | 
+04/10 10:14:26.972 (+    0) <<33976>>(RTS) CDriver::Abort()
+04/10 10:14:26.972 (+    0) <<33976>>(RTS) CDriver::SimpleReset()
+04/10 10:14:27.083 (+  111) <<33976>>(RTS) WRITE: XU;
+04/10 10:14:27.083 (+    0) <<33976>>(RTS) READ: DONE;
+04/10 10:14:27.083 (+    0) <<33976>>(RTS) AllOff()
+04/10 10:14:27.083 (+    0) <<33976>>(RTS) WRITE: V0C0,a0;
+04/10 10:14:27.194 (+  111) <<33976>>(RTS) WRITE: QHS,
+04/10 10:14:27.194 (+    0) <<33976>>(RTS) READ: ACK;
+04/10 10:14:27.194 (+    0) <<33976>>(RTS) sleeping 100ms
+04/10 10:14:27.306 (+  112) <<33976>>(RTS) WRITE: C0,off,V0,off;
+04/10 10:14:27.306 (+    0) <<33976>>(RTS) sleeping 100ms
+04/10 10:14:27.417 (+  111) <<33976>>(RTS) WRITE: V1,S,V2,S,V3,S,V4,S,C1,S,C2,S,C3,S;
+04/10 10:14:27.417 (+    0) <<33976>>(RTS) sleeping 100ms
+04/10 10:14:27.529 (+  112) <<33976>>(RTS) ResetVectors()
+04/10 10:14:27.561 (+   32) <<33976>>(RTS) Inside SetChannelOnColor
+04/10 10:14:27.561 (+    0) <<33976>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = IAmp_1,IPhase_1,IFreq_1
+04/10 10:14:27.561 (+    0) <<33976>>InsideSetBgColor m_bOn = true bMasterOn = false Tags = IAmp_2,IPhase_2,IFreq_2
+04/10 10:14:27.561 (+    0) <<33976>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = IAmp_3,IPhase_3,IFreq_3
+04/10 10:14:27.561 (+    0) <<33976>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = VAmp_1,VPhase_1,VFreq_1
+04/10 10:14:27.561 (+    0) <<33976>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = VAmp_2,VPhase_2,VFreq_2
+04/10 10:14:27.561 (+    0) <<33976>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = VAmp_3,VPhase_3,VFreq_3
+04/10 10:14:27.561 (+    0) <<33976>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = VAmp_4,VPhase_4,VFreq_4
+04/10 10:14:29.688 (+ 2127) <<46224>>InsideSetBgColor m_bOn = true bMasterOn = false Tags = IAmp_1,IPhase_1,IFreq_1
+04/10 10:14:33.935 (+ 4247) <<33976>>(RTS) Start of prefault / fault
+04/10 10:14:33.940 (+    5) <<33976>>(RTS) CDriver::SimpleReset()
+04/10 10:14:34.051 (+  111) <<33976>>(RTS) WRITE: XU;
+04/10 10:14:34.051 (+    0) <<33976>>(RTS) READ: DONE;
+04/10 10:14:34.051 (+    0) <<33976>>(RTS) ResetVectors()
+04/10 10:14:34.051 (+    0) <<33976>>(RTS) ConfigureEx(before batsim adjustment):  NumConvIRequested = 0, NumConvIAvailable = 3, NumI = 3, NumV = 4, NumCurrentOnlyChans = 3, UseLastVAsBat = 0, HasBatterySim = 0, bHasVGens = 1.
+04/10 10:14:34.051 (+    0) <<33976>>(RTS) ConfigureEx(after batsim adjustment):  NumConvIRequested = 0, NumConvIAvailable = 3, NumI = 3, NumV = 4, NumCurrentOnlyChans = 3, UseLastVAsBat = 0, HasBatterySim = 0, bHasVGens = 1.
+04/10 10:14:34.162 (+  111) <<33976>>(RTS) WRITE: BIV:1:0;
+04/10 10:14:34.162 (+    0) <<33976>>(RTS) READ: OK;
+04/10 10:14:34.274 (+  112) <<33976>>(RTS) WRITE: BIV:2:0;
+04/10 10:14:34.274 (+    0) <<33976>>(RTS) READ: OK;
+04/10 10:14:34.385 (+  111) <<33976>>(RTS) WRITE: QHS,
+04/10 10:14:34.386 (+    1) <<33976>>(RTS) READ: ACK;
+04/10 10:14:34.386 (+    0) <<33976>>(RTS) Sleeping 500 ms followed by RE; due to BIV status change...
+04/10 10:14:34.894 (+  508) <<33976>>(RTS) WRITE: RE;
+04/10 10:14:34.894 (+    0) <<33976>>(RTS) WRITE: T01CAU,T01HD,T01AD,T02CAU,T02HD,T02AD,T03CAU,T03HD,T03AD,T04CAU,T04HD,T04AD,T05CAU,T05HD,T05AD,T06CAU,T06HD,T06AD,T07CAU,T07HD,T07AD,T08CAU,T08HD,T08AD,T09CAU,T09HD,T09AD,T10CAU,T10HD,T10AD,TR,
+04/10 10:14:34.894 (+    0) <<33976>>(RTS) MonitorMode for BIN 1 = 
+04/10 10:14:34.894 (+    0) <<33976>>(RTS) LatchMonitor for BIN 1 = 1
+04/10 10:14:34.894 (+    0) <<33976>>(RTS) WRITE: t01m,t01sto,t01cal,VFMIN40E,VFMIN00O,,TR,
+04/10 10:14:35.005 (+  111) <<33976>>(RTS) WRITE: OCA:ON,
+04/10 10:14:35.180 (+  175) <<33976>>(RTS) WRITE: td2,DISON,HBOFF,HBV:OFF,v1,scale1.000,v2,scale1.000,v3,scale1.000,v4,scale1.000,c1,scale1.000,c2,scale1.000,c3,scale1.000,MAXV0.000000,MAXI0.000000,QHS,
+04/10 10:14:35.212 (+   32) <<33976>>(RTS) READ: ACK;
+04/10 10:14:35.323 (+  111) <<33976>>(RTS) WRITE: V1,DFLACON,DFLDCON,V2,DFLACON,DFLDCON,V3,DFLACON,DFLDCON,V4,DFLACON,DFLDCON,QHS,
+04/10 10:14:35.323 (+    0) <<33976>>(RTS) READ: ACK;
+04/10 10:14:35.435 (+  112) <<33976>>(RTS) WRITE: C1,DFLACON,DFLDCON,C2,DFLACON,DFLDCON,C3,DFLACON,DFLDCON;QHS,
+04/10 10:14:35.467 (+   32) <<33976>>(RTS) READ: ACK;
+04/10 10:14:35.467 (+    0) <<33976>>(RTS) WRITE: VASBAT0,T01AE:C0V0,parallel1,HEARTBEAT7,
+04/10 10:14:35.467 (+    0) <<33976>>(RTS) WRITE: ldlg01,
+04/10 10:14:35.467 (+    0) <<33976>>(RTS) WRITE: irigb0,iwfs0,
+04/10 10:14:35.578 (+  111) <<33976>>(RTS) WRITE: QRYMAX,
+04/10 10:14:35.581 (+    3) <<33976>>(RTS) READ: V,300.000,300.000,300.000,150.0000,I,60.000,60.000,60.000,conti,32.000,32.000,32.000;
+04/10 10:14:35.661 (+   80) <<33976>>(RTS) WRITE: QRYALL,
+04/10 10:14:35.662 (+    1) <<33976>>(RTS) READ: V,0,10,0.0,0.0,0.000,0.000,0,20,0.0,0.0,0.000,0.000,0,30,0.0,0.0,0.000,0.000,0,40,0.0,0.0,360.000,60.000,I,0,11,0.0,0.0,0.000,60.000,0,21,0.0,0.0,0.000,60.000,0,31,0.0,0.0,0.000,60.000,BI,0000000000,BO,000000,EV,0,T,0.0000,T01,0.0,T02,0.0,T03,0.0,T04,0.0,T05,0.0,T06,0.0,T07,0.0,T08,0.0,T09,0.0,T10,0.0,P8000,470,P8k2,0,VDC,NA,BootCnt:50,DCAP0,Tmax,26.50,12,SMRT,SSF:NA,43.67,71.40,;
+04/10 10:14:35.662 (+    0) <<33976>>(RTS) WRITE: td2,t01m,t01cal,t01HD,TR,
+04/10 10:14:35.772 (+  110) <<33976>>(RTS) WRITE: qg,
+04/10 10:14:35.787 (+   15) <<33976>>(RTS) READ: GATE0000;
+04/10 10:14:35.788 (+    1) <<33976>>(RTS) WRITE: v1,off,v2,p120.000,off,v3,p240.000,off,v4,off,c1,a3.0000,d0,p0.000,f60.000,on,c2,a5.0000,d0,p120.000,f60.000,on,c3,p240.000,off,TRL,TSOSTA,BO010,BO020,BO030,BO040,BO050,BO060,
+04/10 10:14:35.788 (+    0) <<33976>>(RTS) WRITE: WANYXXXXXXXXX1,
+04/10 10:14:35.788 (+    0) <<33976>>(RTS) WRITE: TSOSTO,
+04/10 10:14:35.788 (+    0) <<33976>>(RTS) WRITE: V0,OF,C0,OF,
+04/10 10:14:35.904 (+  116) <<33976>>(RTS) WRITE: QHS,
+04/10 10:14:35.904 (+    0) <<33976>>(RTS) READ: ACK;
+04/10 10:14:35.904 (+    0) <<33976>>(RTS) WRITE: ;
+04/10 10:14:35.968 (+   64) <<33976>>(RTS) Inside SetChannelOnColor
+04/10 10:14:35.968 (+    0) <<33976>>InsideSetBgColor m_bOn = true bMasterOn = true Tags = IAmp_1,IPhase_1,IFreq_1
+04/10 10:14:35.969 (+    1) <<33976>>InsideSetBgColor m_bOn = true bMasterOn = true Tags = IAmp_2,IPhase_2,IFreq_2
+04/10 10:14:35.969 (+    0) <<33976>>InsideSetBgColor m_bOn = false bMasterOn = true Tags = IAmp_3,IPhase_3,IFreq_3
+04/10 10:14:35.969 (+    0) <<33976>>InsideSetBgColor m_bOn = false bMasterOn = true Tags = VAmp_1,VPhase_1,VFreq_1
+04/10 10:14:35.970 (+    1) <<33976>>InsideSetBgColor m_bOn = false bMasterOn = true Tags = VAmp_2,VPhase_2,VFreq_2
+04/10 10:14:35.970 (+    0) <<33976>>InsideSetBgColor m_bOn = false bMasterOn = true Tags = VAmp_3,VPhase_3,VFreq_3
+04/10 10:14:35.970 (+    0) <<33976>>InsideSetBgColor m_bOn = false bMasterOn = true Tags = VAmp_4,VPhase_4,VFreq_4
+04/10 10:14:36.079 (+  109) <<33976>>(RTS) WRITE: QRYALL,
+04/10 10:14:36.084 (+    5) <<33976>>(RTS) READ: V,0,10,0.0,0.0,0.000,0.000,0,20,0.0,0.0,0.000,0.000,0,30,0.0,0.0,240.000,0.000,0,40,0.0,0.0,360.000,60.000,I,1,11,3.0020,0.0193,0.000,60.000,1,21,5.0059,-0.0017,120.000,60.000,0,31,0.0,0.0,240.000,60.000,BI,0000000000,BO,000000,EV,2,T,0.1208,T01,0.0,T02,0.0,T03,0.0,T04,0.0,T05,0.0,T06,0.0,T07,0.0,T08,0.0,T09,0.0,T10,0.0,P8000,518,P8k2,0,VDC,NA,BootCnt:50,DCAP0,Tmax,26.50,12,SMRT,SSF:NA,46.73,70.98,;
+04/10 10:14:36.084 (+    0) <<33976>>(RTS) Switch to fault mode
+04/10 10:14:36.150 (+   66) <<33976>>(RTS) Contact Time = 18
+04/10 10:14:36.252 (+  102) <<33976>>(RTS) WRITE: QRYALL,
+04/10 10:14:36.252 (+    0) <<33976>>(RTS) READ: V,0,10,0.0,0.0,0.000,0.000,0,20,0.0,0.0,0.000,0.000,0,30,0.0,0.0,240.000,0.000,0,40,0.0,0.0,360.000,60.000,I,1,11,2.9999,0.0123,0.000,60.000,1,21,4.9989,-0.0032,120.000,60.000,0,31,0.0,0.0,240.000,60.000,BI,0000000000,BO,000000,EV,2,T,0.2938,T01,0.0,T02,0.0,T03,0.0,T04,0.0,T05,0.0,T06,0.0,T07,0.0,T08,0.0,T09,0.0,T10,0.0,P8000,519,P8k2,0,VDC,NA,BootCnt:50,DCAP0,Tmax,26.25,12,SMRT,SSF:NA,46.81,49.30,;
+04/10 10:14:36.441 (+  189) <<33976>>(RTS) WRITE: QRYALL,
+04/10 10:14:36.450 (+    9) <<33976>>(RTS) READ: V,0,10,0.0,0.0,0.000,0.000,0,20,0.0,0.0,0.000,0.000,0,30,0.0,0.0,240.000,0.000,0,40,0.0,0.0,360.000,60.000,I,1,11,3.0001,0.0064,0.000,60.000,1,21,5.0008,-0.0031,120.000,60.000,0,31,0.0,0.0,240.000,60.000,BI,0000000000,BO,000000,EV,2,T,0.4832,T01,0.0,T02,0.0,T03,0.0,T04,0.0,T05,0.0,T06,0.0,T07,0.0,T08,0.0,T09,0.0,T10,0.0,P8000,520,P8k2,0,VDC,NA,BootCnt:50,DCAP0,Tmax,26.25,12,SMRT,SSF:NA,46.80,48.88,;
+04/10 10:14:36.631 (+  181) <<33976>>(RTS) WRITE: QRYALL,
+04/10 10:14:36.631 (+    0) <<33976>>(RTS) READ: V,0,10,0.0,0.0,0.000,0.000,0,20,0.0,0.0,120.000,0.000,0,30,0.0,0.0,240.000,0.000,0,40,0.0,0.0,360.000,60.000,I,1,11,2.9998,0.0028,0.000,60.000,1,21,4.9973,-0.0081,120.000,60.000,0,31,0.0,0.0,240.000,60.000,BI,0000000000,BO,000000,EV,2,T,0.6727,T01,0.0,T02,0.0,T03,0.0,T04,0.0,T05,0.0,T06,0.0,T07,0.0,T08,0.0,T09,0.0,T10,0.0,P8000,521,P8k2,0,VDC,NA,BootCnt:50,DCAP0,Tmax,26.25,12,SMRT,SSF:NA,46.72,48.88,;
+04/10 10:14:36.822 (+  191) <<33976>>(RTS) WRITE: QRYALL,
+04/10 10:14:36.822 (+    0) <<33976>>(RTS) READ: V,0,10,0.0,0.0,0.000,0.000,0,20,0.0,0.0,120.000,0.000,0,30,0.0,0.0,240.000,0.000,0,40,0.0,0.0,360.000,60.000,I,1,11,3.0000,0.0017,0.000,60.000,1,21,5.0002,0.0061,120.000,60.000,0,31,0.0,0.0,240.000,60.000,BI,0000000000,BO,000000,EV,2,T,0.8641,T01,0.0,T02,0.0,T03,0.0,T04,0.0,T05,0.0,T06,0.0,T07,0.0,T08,0.0,T09,0.0,T10,0.0,P8000,522,P8k2,0,VDC,NA,BootCnt:50,DCAP0,Tmax,26.25,12,SMRT,SSF:NA,46.79,49.30,;
+04/10 10:14:37.331 (+  509) <<33976>>(RTS) READ: ERROR: Open circuit alarm  on C1 | ERROR: Open circuit alarm  on C2 | 
+04/10 10:14:37.331 (+    0) <<33976>>(RTS) HandleError: Message: Aborting due to unexpected, non-empty response: ERROR: Open circuit alarm  on C1 | ERROR: Open circuit alarm  on C2 | 
+04/10 10:14:37.331 (+    0) <<33976>>(RTS) CDriver::Abort()
+04/10 10:14:37.331 (+    0) <<33976>>(RTS) CDriver::SimpleReset()
+04/10 10:14:37.443 (+  112) <<33976>>(RTS) WRITE: XU;
+04/10 10:14:37.443 (+    0) <<33976>>(RTS) READ: DONE;
+04/10 10:14:37.443 (+    0) <<33976>>(RTS) AllOff()
+04/10 10:14:37.443 (+    0) <<33976>>(RTS) WRITE: V0C0,a0;
+04/10 10:14:37.555 (+  112) <<33976>>(RTS) WRITE: QHS,
+04/10 10:14:37.555 (+    0) <<33976>>(RTS) READ: ACK;
+04/10 10:14:37.555 (+    0) <<33976>>(RTS) sleeping 100ms
+04/10 10:14:37.667 (+  112) <<33976>>(RTS) WRITE: C0,off,V0,off;
+04/10 10:14:37.667 (+    0) <<33976>>(RTS) sleeping 100ms
+04/10 10:14:37.778 (+  111) <<33976>>(RTS) WRITE: V1,S,V2,S,V3,S,V4,S,C1,S,C2,S,C3,S;
+04/10 10:14:37.778 (+    0) <<33976>>(RTS) sleeping 100ms
+04/10 10:14:37.889 (+  111) <<33976>>(RTS) ResetVectors()
+04/10 10:14:37.935 (+   46) <<33976>>(RTS) Inside SetChannelOnColor
+04/10 10:14:37.935 (+    0) <<33976>>InsideSetBgColor m_bOn = true bMasterOn = false Tags = IAmp_1,IPhase_1,IFreq_1
+04/10 10:14:37.935 (+    0) <<33976>>InsideSetBgColor m_bOn = true bMasterOn = false Tags = IAmp_2,IPhase_2,IFreq_2
+04/10 10:14:37.935 (+    0) <<33976>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = IAmp_3,IPhase_3,IFreq_3
+04/10 10:14:37.935 (+    0) <<33976>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = VAmp_1,VPhase_1,VFreq_1
+04/10 10:14:37.937 (+    2) <<33976>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = VAmp_2,VPhase_2,VFreq_2
+04/10 10:14:37.937 (+    0) <<33976>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = VAmp_3,VPhase_3,VFreq_3
+04/10 10:14:37.937 (+    0) <<33976>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = VAmp_4,VPhase_4,VFreq_4

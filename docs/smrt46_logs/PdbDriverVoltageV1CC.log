@@ -1,0 +1,78 @@
+05/04 13:32:03.987 (+30372) <<27456>>(RTS) Start of prefault / fault
+05/04 13:32:03.996 (+    9) <<27456>>(RTS) CDriver::SimpleReset()
+05/04 13:32:04.044 (+   48) <<27456>>(RTS) READ: ::::
+05/04 13:32:04.113 (+   69) <<27456>>(RTS) WRITE: XU;
+05/04 13:32:04.113 (+    0) <<27456>>(RTS) READ: DONE;
+05/04 13:32:04.113 (+    0) <<27456>>(RTS) ResetVectors()
+05/04 13:32:04.113 (+    0) <<27456>>(RTS) ConfigureEx(before batsim adjustment):  NumConvIRequested = 0, NumConvIAvailable = 3, NumI = 3, NumV = 4, NumCurrentOnlyChans = 3, UseLastVAsBat = 0, HasBatterySim = 0, bHasVGens = 1.
+05/04 13:32:04.113 (+    0) <<27456>>(RTS) ConfigureEx(after batsim adjustment):  NumConvIRequested = 0, NumConvIAvailable = 3, NumI = 3, NumV = 4, NumCurrentOnlyChans = 3, UseLastVAsBat = 0, HasBatterySim = 0, bHasVGens = 1.
+05/04 13:32:04.224 (+  111) <<27456>>(RTS) WRITE: BIV:1:0;
+05/04 13:32:04.228 (+    4) <<27456>>(RTS) READ: OK;
+05/04 13:32:04.324 (+   96) <<27456>>(RTS) WRITE: BIV:2:0;
+05/04 13:32:04.324 (+    0) <<27456>>(RTS) READ: OK;
+05/04 13:32:04.435 (+  111) <<27456>>(RTS) WRITE: QHS,
+05/04 13:32:04.435 (+    0) <<27456>>(RTS) READ: ACK;
+05/04 13:32:04.435 (+    0) <<27456>>(RTS) Sleeping 500 ms followed by RE; due to BIV status change...
+05/04 13:32:04.944 (+  509) <<27456>>(RTS) WRITE: RE;
+05/04 13:32:04.947 (+    3) <<27456>>(RTS) WRITE: T01CAU,T01HD,T01AD,T02CAU,T02HD,T02AD,T03CAU,T03HD,T03AD,T04CAU,T04HD,T04AD,T05CAU,T05HD,T05AD,T06CAU,T06HD,T06AD,T07CAU,T07HD,T07AD,T08CAU,T08HD,T08AD,T09CAU,T09HD,T09AD,T10CAU,T10HD,T10AD,TR,
+05/04 13:32:04.947 (+    0) <<27456>>(RTS) MonitorMode for BIN 1 = 
+05/04 13:32:04.947 (+    0) <<27456>>(RTS) LatchMonitor for BIN 1 = 1
+05/04 13:32:04.947 (+    0) <<27456>>(RTS) WRITE: t01m,t01sto,t01cal,VFMIN40E,VFMIN00O,,TR,
+05/04 13:32:05.055 (+  108) <<27456>>(RTS) WRITE: OCA:ON,
+05/04 13:32:05.230 (+  175) <<27456>>(RTS) WRITE: td2,DISON,HBOFF,HBV:OFF,v1,scale1.000,v2,scale1.000,v3,scale1.000,v4,scale1.000,c1,scale1.000,c2,scale1.000,c3,scale1.000,MAXV0.000000,MAXI0.000000,QHS,
+05/04 13:32:05.262 (+   32) <<27456>>(RTS) READ: ACK;
+05/04 13:32:05.373 (+  111) <<27456>>(RTS) WRITE: V1,DFLACON,DFLDCON,V2,DFLACON,DFLDCON,V3,DFLACON,DFLDCON,V4,DFLACON,DFLDCON,QHS,
+05/04 13:32:05.383 (+   10) <<27456>>(RTS) READ: ACK;
+05/04 13:32:05.484 (+  101) <<27456>>(RTS) WRITE: C1,DFLACON,DFLDCON,C2,DFLACON,DFLDCON,C3,DFLACON,DFLDCON;QHS,
+05/04 13:32:05.516 (+   32) <<27456>>(RTS) READ: ACK;
+05/04 13:32:05.516 (+    0) <<27456>>(RTS) WRITE: VASBAT0,T01AE:C0V0,parallel1,HEARTBEAT7,
+05/04 13:32:05.516 (+    0) <<27456>>(RTS) WRITE: ldlg01,
+05/04 13:32:05.516 (+    0) <<27456>>(RTS) WRITE: irigb0,iwfs0,
+05/04 13:32:05.628 (+  112) <<27456>>(RTS) WRITE: QRYMAX,
+05/04 13:32:05.633 (+    5) <<27456>>(RTS) READ: V,300.000,300.000,300.000,150.0000,I,60.000,60.000,60.000,conti,32.000,32.000,32.000;
+05/04 13:32:05.740 (+  107) <<27456>>(RTS) WRITE: QRYALL,
+05/04 13:32:05.740 (+    0) <<27456>>(RTS) READ: V,0,10,0.0,0.0,0.000,0.000,0,20,0.0,0.0,0.000,0.000,0,30,0.0,0.0,0.000,0.000,0,40,0.0,0.0,360.000,60.000,I,0,11,0.0,0.0,0.000,60.000,0,21,0.0,0.0,0.000,60.000,0,31,0.0,0.0,0.000,60.000,BI,0000000000,BO,000000,EV,0,T,0.0000,T01,0.0,T02,0.0,T03,0.0,T04,0.0,T05,0.0,T06,0.0,T07,0.0,T08,0.0,T09,0.0,T10,0.0,P8000,1829,P8k2,0,VDC,NA,BootCnt:100,DCAP0,Tmax,37.25,12,SMRT,SSF:NA,43.50,67.15,;
+05/04 13:32:05.740 (+    0) <<27456>>(RTS) WRITE: td2,t01m,t01cal,t01HD,TR,
+05/04 13:32:05.852 (+  112) <<27456>>(RTS) WRITE: qg,
+05/04 13:32:05.868 (+   16) <<27456>>(RTS) READ: GATE0000;
+05/04 13:32:05.868 (+    0) <<27456>>(RTS) WRITE: v1,a69.0000,d0,p0.000,f60.000,on,v2,p120.000,off,v3,p240.000,off,v4,off,c1,off,c2,p120.000,off,c3,p240.000,off,TRL,TSOSTA,BO010,BO020,BO030,BO040,BO050,BO060,
+05/04 13:32:05.868 (+    0) <<27456>>(RTS) WRITE: WANYXXXXXXXXX1,
+05/04 13:32:05.868 (+    0) <<27456>>(RTS) WRITE: TSOSTO,
+05/04 13:32:05.868 (+    0) <<27456>>(RTS) WRITE: V0,OF,C0,OF,
+05/04 13:32:06.156 (+  288) <<27456>>(RTS) READ: ERROR: Local generator amplifier over current on V1 | 
+05/04 13:32:06.156 (+    0) <<27456>>(RTS) HandleError: Message: Aborting due to unexpected, non-empty response: ERROR: Local generator amplifier over current on V1 | 
+05/04 13:32:06.156 (+    0) <<27456>>(RTS) CDriver::Abort()
+05/04 13:32:06.156 (+    0) <<27456>>(RTS) CDriver::SimpleReset()
+05/04 13:32:06.268 (+  112) <<27456>>(RTS) WRITE: XU;
+05/04 13:32:06.270 (+    2) <<27456>>(RTS) READ: DONE;
+05/04 13:32:06.270 (+    0) <<27456>>(RTS) AllOff()
+05/04 13:32:06.270 (+    0) <<27456>>(RTS) WRITE: V0C0,a0;
+05/04 13:32:06.379 (+  109) <<27456>>(RTS) WRITE: QHS,
+05/04 13:32:06.384 (+    5) <<27456>>(RTS) READ: ACK;
+05/04 13:32:06.384 (+    0) <<27456>>(RTS) sleeping 100ms
+05/04 13:32:06.491 (+  107) <<27456>>(RTS) WRITE: C0,off,V0,off;
+05/04 13:32:06.491 (+    0) <<27456>>(RTS) sleeping 100ms
+05/04 13:32:06.601 (+  110) <<27456>>(RTS) WRITE: V1,S,V2,S,V3,S,V4,S,C1,S,C2,S,C3,S;
+05/04 13:32:06.601 (+    0) <<27456>>(RTS) sleeping 100ms
+05/04 13:32:06.712 (+  111) <<27456>>(RTS) ResetVectors()
+05/04 13:32:06.712 (+    0) <<27456>>(RTS) Inside SetChannelOnColor
+05/04 13:32:06.712 (+    0) <<27456>>InsideSetBgColor m_bOn = false bMasterOn = true Tags = IAmp_1,IPhase_1,IFreq_1
+05/04 13:32:06.712 (+    0) <<27456>>InsideSetBgColor m_bOn = false bMasterOn = true Tags = IAmp_2,IPhase_2,IFreq_2
+05/04 13:32:06.712 (+    0) <<27456>>InsideSetBgColor m_bOn = false bMasterOn = true Tags = IAmp_3,IPhase_3,IFreq_3
+05/04 13:32:06.712 (+    0) <<27456>>InsideSetBgColor m_bOn = true bMasterOn = true Tags = VAmp_1,VPhase_1,VFreq_1
+05/04 13:32:06.712 (+    0) <<27456>>InsideSetBgColor m_bOn = false bMasterOn = true Tags = VAmp_2,VPhase_2,VFreq_2
+05/04 13:32:06.712 (+    0) <<27456>>InsideSetBgColor m_bOn = false bMasterOn = true Tags = VAmp_3,VPhase_3,VFreq_3
+05/04 13:32:06.712 (+    0) <<27456>>InsideSetBgColor m_bOn = false bMasterOn = true Tags = VAmp_4,VPhase_4,VFreq_4
+05/04 13:32:06.824 (+  112) <<27456>>(RTS) WRITE: QRYALL,
+05/04 13:32:06.824 (+    0) <<27456>>(RTS) READ: V,0,10,0.0,0.0,0.000,0.000,0,20,0.0,0.0,0.000,0.000,0,30,0.0,0.0,0.000,0.000,0,40,0.0,0.0,360.000,60.000,I,0,11,0.0,0.0,0.000,60.000,0,21,0.0,0.0,0.000,60.000,0,31,0.0,0.0,0.000,60.000,BI,0000000000,BO,000000,EV,0,T,0.0000,T01,0.0,T02,0.0,T03,0.0,T04,0.0,T05,0.0,T06,0.0,T07,0.0,T08,0.0,T09,0.0,T10,0.0,P8000,1898,P8k2,0,VDC,NA,BootCnt:100,DCAP0,Tmax,37.25,12,SMRT,SSF:NA,43.46,67.58,;
+05/04 13:32:06.833 (+    9) <<27456>>(RTS) Sleep and retry check that the test has started due to 'EV,0' response from test set.
+05/04 13:32:07.158 (+  325) <<27456>>(RTS) WRITE: QRYALL,
+05/04 13:32:07.165 (+    7) <<27456>>(RTS) READ: V,0,10,0.0,0.0,0.000,0.000,0,20,0.0,0.0,0.000,0.000,0,30,0.0,0.0,0.000,0.000,0,40,0.0,0.0,360.000,60.000,I,0,11,0.0,0.0,0.000,60.000,0,21,0.0,0.0,0.000,60.000,0,31,0.0,0.0,0.000,60.000,BI,0000000000,BO,000000,EV,0,T,0.0000,T01,0.0,T02,0.0,T03,0.0,T04,0.0,T05,0.0,T06,0.0,T07,0.0,T08,0.0,T09,0.0,T10,0.0,P8000,1899,P8k2,0,VDC,NA,BootCnt:100,DCAP0,Tmax,37.25,12,SMRT,SSF:NA,43.67,49.30,;
+05/04 13:32:07.405 (+  240) <<27456>>(RTS) Inside SetChannelOnColor
+05/04 13:32:07.405 (+    0) <<27456>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = IAmp_1,IPhase_1,IFreq_1
+05/04 13:32:07.405 (+    0) <<27456>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = IAmp_2,IPhase_2,IFreq_2
+05/04 13:32:07.405 (+    0) <<27456>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = IAmp_3,IPhase_3,IFreq_3
+05/04 13:32:07.405 (+    0) <<27456>>InsideSetBgColor m_bOn = true bMasterOn = false Tags = VAmp_1,VPhase_1,VFreq_1
+05/04 13:32:07.405 (+    0) <<27456>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = VAmp_2,VPhase_2,VFreq_2
+05/04 13:32:07.405 (+    0) <<27456>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = VAmp_3,VPhase_3,VFreq_3
+05/04 13:32:07.405 (+    0) <<27456>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = VAmp_4,VPhase_4,VFreq_4

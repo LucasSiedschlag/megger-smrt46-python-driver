@@ -1,0 +1,25 @@
+05/04 13:32:00.380 (+ 1004) <<24188>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+05/04 13:32:01.335 (+  955) <<24188>>ADO Recordset Open SQL Str 34597128 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+05/04 13:32:01.382 (+   47) <<24188>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+05/04 13:32:02.373 (+  991) <<24188>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+05/04 13:32:03.325 (+  952) <<24188>>ADO Recordset Open SQL Str 34597128 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+05/04 13:32:03.374 (+   49) <<24188>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+05/04 13:32:04.373 (+  999) <<24188>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+05/04 13:32:05.326 (+  953) <<24188>>ADO Recordset Open SQL Str 34597128 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+05/04 13:32:05.373 (+   47) <<24188>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+05/04 13:32:06.156 (+  783) <<27456>>Non-empty response: ERROR: Local generator amplifier over current on V1 |
+05/04 13:32:06.379 (+  223) <<24188>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+05/04 13:32:07.094 (+  715) <<24188>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+05/04 13:32:07.364 (+  270) <<24188>>ADO Recordset Open SQL Str 34597128 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+05/04 13:32:07.396 (+   32) <<24188>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+05/04 13:32:08.379 (+  983) <<24188>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+

@@ -1,0 +1,21 @@
+04/07 13:47:15.106 (+ 5567) <<27416>>(RTS) **AUTODETECT** 169.254.3.0:8000: Failed to open socket
+04/07 13:47:15.106 (+    0) <<27416>>(RTS) **AUTODETECT** 169.254.3.0:8000: Close socket
+04/07 13:47:15.110 (+    4) <<27416>>(RTS) Ether Detect(0):  Sending UDP @ 8001, MEGGER
+04/07 13:47:15.110 (+    0) <<27416>>(RTS) Ether Detect(0):  successfully sent 6 bytes from IP 169.254.215.105
+04/07 13:47:15.111 (+    1) <<27416>>(RTS) Ether Detect(0):  Sending UDP @ 8001, MEGGER
+04/07 13:47:15.112 (+    1) <<27416>>(RTS) Ether Detect(0):  successfully sent 6 bytes from IP 172.21.144.1
+04/07 13:47:15.112 (+    0) <<27416>>(RTS) Ether Detect(1):  Sending UDP @ 8001, MEGGER
+04/07 13:47:15.113 (+    1) <<27416>>(RTS) Ether Detect(1):  successfully sent 6 bytes from IP 169.254.215.105
+04/07 13:47:15.113 (+    0) <<27416>>(RTS) Ether Detect(1):  Sending UDP @ 8001, MEGGER
+04/07 13:47:15.113 (+    0) <<27416>>(RTS) Ether Detect(1):  successfully sent 6 bytes from IP 172.21.144.1
+04/07 13:47:15.113 (+    0) <<27416>>(RTS) Ether Detect(2):  Sending UDP @ 8001, MEGGER
+04/07 13:47:15.113 (+    0) <<27416>>(RTS) Ether Detect(2):  successfully sent 6 bytes from IP 169.254.215.105
+04/07 13:47:15.113 (+    0) <<27416>>(RTS) Ether Detect(2):  Sending UDP @ 8001, MEGGER
+04/07 13:47:15.113 (+    0) <<27416>>(RTS) Ether Detect(2):  successfully sent 6 bytes from IP 172.21.144.1
+04/07 13:47:15.113 (+    0) <<27416>>(RTS) Ether Detect:  NumBytes = 6, MEGGER
+04/07 13:47:15.113 (+    0) <<27416>>(RTS) Ether Detect:  NumBytes = 37, SMRT-202507070001-46P-4 min-6.41200-A
+04/07 13:47:15.113 (+    0) <<27416>>(RTS) Ether Detect:  NumBytes = 6, MEGGER
+04/07 13:47:15.113 (+    0) <<27416>>(RTS) Ether Detect:  NumBytes = 37, SMRT-202507070001-46P-4 min-6.41200-A
+04/07 13:47:17.618 (+ 2505) <<27416>>(RTS) Ether Detect:  NumBytes = 6, MEGGER
+04/07 13:47:17.618 (+    0) <<27416>>(RTS) Ether Detect:  NumBytes = 6, MEGGER
+04/07 13:47:17.618 (+    0) <<27416>>(RTS) **AUTODETECT** 169.254.4.0:8000: Attempting to open socket...

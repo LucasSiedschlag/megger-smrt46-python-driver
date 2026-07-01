@@ -1,0 +1,380 @@
+04/07 13:54:54.104 (+447470) <<27416>>(RELAY) CLOSE SERIAL
+04/07 13:54:54.215 (+  111) <<27416>>(RTS) Open
+04/07 13:54:54.215 (+    0) <<27416>>(RTS) m_DetectedIp = 0.0.0.0
+04/07 13:54:54.281 (+   66) <<27416>>(RTS) Ether Detect(0):  Sending UDP @ 8001, MEGGER
+04/07 13:54:54.281 (+    0) <<27416>>(RTS) Ether Detect(0):  successfully sent 6 bytes from IP 169.254.215.105
+04/07 13:54:54.281 (+    0) <<27416>>(RTS) Ether Detect(0):  Sending UDP @ 8001, MEGGER
+04/07 13:54:54.281 (+    0) <<27416>>(RTS) Ether Detect(0):  successfully sent 6 bytes from IP 172.21.144.1
+04/07 13:54:54.281 (+    0) <<27416>>(RTS) Ether Detect(1):  Sending UDP @ 8001, MEGGER
+04/07 13:54:54.281 (+    0) <<27416>>(RTS) Ether Detect(1):  successfully sent 6 bytes from IP 169.254.215.105
+04/07 13:54:54.281 (+    0) <<27416>>(RTS) Ether Detect(1):  Sending UDP @ 8001, MEGGER
+04/07 13:54:54.281 (+    0) <<27416>>(RTS) Ether Detect(1):  successfully sent 6 bytes from IP 172.21.144.1
+04/07 13:54:54.281 (+    0) <<27416>>(RTS) Ether Detect(2):  Sending UDP @ 8001, MEGGER
+04/07 13:54:54.281 (+    0) <<27416>>(RTS) Ether Detect(2):  successfully sent 6 bytes from IP 169.254.215.105
+04/07 13:54:54.281 (+    0) <<27416>>(RTS) Ether Detect(2):  Sending UDP @ 8001, MEGGER
+04/07 13:54:54.281 (+    0) <<27416>>(RTS) Ether Detect(2):  successfully sent 6 bytes from IP 172.21.144.1
+04/07 13:54:54.281 (+    0) <<27416>>(RTS) Ether Detect:  NumBytes = 6, MEGGER
+04/07 13:54:54.281 (+    0) <<27416>>(RTS) Ether Detect:  NumBytes = 37, SMRT-202507070001-46P-1 min-6.41200-A
+04/07 13:54:54.281 (+    0) <<27416>>(RTS) Ether Detect:  NumBytes = 6, MEGGER
+04/07 13:54:54.281 (+    0) <<27416>>(RTS) Ether Detect:  NumBytes = 37, SMRT-202507070001-46P-1 min-6.41200-A
+04/07 13:54:56.785 (+ 2504) <<27416>>(RTS) m_DetectedIp = 169.254.219.227
+04/07 13:54:57.006 (+  221) <<27416>>(RTS) Testing connection...
+04/07 13:54:57.214 (+  208) <<27416>>(RTS) WRITE: qg,
+04/07 13:54:57.214 (+    0) <<27416>>(RTS) READ: GATE0000;
+04/07 13:54:57.214 (+    0) <<27416>>(RTS) Connection status: OK
+04/07 13:54:57.214 (+    0) <<27416>>(RTS) OPEN SOCKET at IP Address '169.254.219.227' : 8000
+04/07 13:54:57.214 (+    0) <<27416>>(RTS) Device opened
+04/07 13:54:57.326 (+  112) <<27416>>(RTS) WRITE: HSU;
+04/07 13:54:57.422 (+   96) <<27416>>(RTS) READ: HSU;
+04/07 13:54:57.534 (+  112) <<27416>>(RTS) WRITE: QC;
+04/07 13:54:57.542 (+    8) <<27416>>(RTS) READ:
+04/07 13:54:57.542 (+    0) <<27416>>(RTS) <G4>,<Model:SMRT46P><VER><12,23,25><Rel_>,<IO><10,6><SN><202507070001>,/<G><1><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1725SM00001><DspRev:2.00><GenSn:202506081028><GenBoardSn:><PfcSn:><PfcType:0131>/,/<G><2><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1425SM00158><DspRev:2.00><GenSn:202506081029><GenBoardSn:><PfcSn:><PfcType:0131>/,/<G><3><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1425SM00054><DspRev:2.00><GenSn:202504081083><GenBoardSn:><PfcSn:><PfcType:0
+04/07 13:54:57.542 (+    0) <<27416>>(RTS) 000>/,/<G><4><VER><6.41200><GenRev:4.00>,<0><V><CalRev:2.10><DspBoardSn:1725SM00001><DspRev:2.00><GenSn:202506081155><GenBoardSn:><PfcSn:><PfcType:0000>/,<SMRT><PN:SMRT46-30P0F1A0S1><SysBdAsySn:202506081155><SysBoardType:5.2,A><IEC61850:0><AdvSoft:0><BIS0>;
+04/07 13:54:57.645 (+  103) <<27416>>(RTS) WRITE: flag:rogkey:qry,
+04/07 13:54:57.645 (+    0) <<27416>>(RTS) READ: 0;
+04/07 13:54:57.645 (+    0) <<27416>>(RTS) NumCurrentOnlyChans = 3
+04/07 13:54:57.661 (+   16) <<27416>>(RTS) GetSmrtInfo  bSmrt = 1
+04/07 13:54:57.773 (+  112) <<27416>>(RTS) WRITE: QC,
+04/07 13:54:57.785 (+   12) <<27416>>(RTS) READ:
+04/07 13:54:57.786 (+    1) <<27416>>(RTS) <G4>,<Model:SMRT46P><VER><12,23,25><Rel_>,<IO><10,6><SN><202507070001>,/<G><1><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1725SM00001><DspRev:2.00><GenSn:202506081028><GenBoardSn:><PfcSn:><PfcType:0131>/,/<G><2><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1425SM00158><DspRev:2.00><GenSn:202506081029><GenBoardSn:><PfcSn:><PfcType:0131>/,/<G><3><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1425SM00054><DspRev:2.00><GenSn:202504081083><GenBoardSn:><PfcSn:><PfcType:0
+04/07 13:54:57.787 (+    1) <<27416>>(RTS) 000>/,/<G><4><VER><6.41200><GenRev:4.00>,<0><V><CalRev:2.10><DspBoardSn:1725SM00001><DspRev:2.00><GenSn:202506081155><GenBoardSn:><PfcSn:><PfcType:0000>/,<SMRT><PN:SMRT46-30P0F1A0S1><SysBdAsySn:202506081155><SysBoardType:5.2,A><IEC61850:0><AdvSoft:0><BIS0>;
+04/07 13:54:57.788 (+    1) <<27416>>(RTS) WRITE: MPRTMODEOF,
+04/07 13:54:57.900 (+  112) <<27416>>(RTS) WRITE: QC;
+04/07 13:54:57.900 (+    0) <<27416>>(RTS) READ:
+04/07 13:54:57.900 (+    0) <<27416>>(RTS) <G4>,<Model:SMRT46P><VER><12,23,25><Rel_>,<IO><10,6><SN><202507070001>,/<G><1><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1725SM00001><DspRev:2.00><GenSn:202506081028><GenBoardSn:><PfcSn:><PfcType:0131>/,/<G><2><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1425SM00158><DspRev:2.00><GenSn:202506081029><GenBoardSn:><PfcSn:><PfcType:0131>/,/<G><3><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1425SM00054><DspRev:2.00><GenSn:202504081083><GenBoardSn:><PfcSn:><PfcType:0
+04/07 13:54:57.900 (+    0) <<27416>>(RTS) 000>/,/<G><4><VER><6.41200><GenRev:4.00>,<0><V><CalRev:2.10><DspBoardSn:1725SM00001><DspRev:2.00><GenSn:202506081155><GenBoardSn:><PfcSn:><PfcType:0000>/,<SMRT><PN:SMRT46-30P0F1A0S1><SysBdAsySn:202506081155><SysBoardType:5.2,A><IEC61850:0><AdvSoft:0><BIS0>;
+04/07 13:54:58.012 (+  112) <<27416>>(RTS) WRITE: flag:rogkey:qry,
+04/07 13:54:58.012 (+    0) <<27416>>(RTS) READ: 0;
+04/07 13:54:58.012 (+    0) <<27416>>(RTS) NumCurrentOnlyChans = 3
+04/07 13:54:58.012 (+    0) <<27416>>(RTS) GetSmrtInfo  bSmrt = 1
+04/07 13:54:58.125 (+  113) <<27416>>(RTS) WRITE: QC;
+04/07 13:54:58.127 (+    2) <<27416>>(RTS) READ:
+04/07 13:54:58.127 (+    0) <<27416>>(RTS) <G4>,<Model:SMRT46P><VER><12,23,25><Rel_>,<IO><10,6><SN><202507070001>,/<G><1><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1725SM00001><DspRev:2.00><GenSn:202506081028><GenBoardSn:><PfcSn:><PfcType:0131>/,/<G><2><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1425SM00158><DspRev:2.00><GenSn:202506081029><GenBoardSn:><PfcSn:><PfcType:0131>/,/<G><3><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1425SM00054><DspRev:2.00><GenSn:202504081083><GenBoardSn:><PfcSn:><PfcType:0
+04/07 13:54:58.127 (+    0) <<27416>>(RTS) 000>/,/<G><4><VER><6.41200><GenRev:4.00>,<0><V><CalRev:2.10><DspBoardSn:1725SM00001><DspRev:2.00><GenSn:202506081155><GenBoardSn:><PfcSn:><PfcType:0000>/,<SMRT><PN:SMRT46-30P0F1A0S1><SysBdAsySn:202506081155><SysBoardType:5.2,A><IEC61850:0><AdvSoft:0><BIS0>;
+04/07 13:54:58.237 (+  110) <<27416>>(RTS) WRITE: flag:rogkey:qry,
+04/07 13:54:58.241 (+    4) <<27416>>(RTS) READ: 0;
+04/07 13:54:58.317 (+   76) <<27416>>(RTS) WRITE: QVER;
+04/07 13:54:58.317 (+    0) <<27416>>(RTS) READ: DSP0:6.41200,CPLD:8,Boot:1.052;DSP1:6.41200,CPLD:8,Boot:1.052;DSP2:6.41200,CPLD:8,Boot:1.052;
+04/07 13:54:58.428 (+  111) <<27416>>(RTS) WRITE: QIP;
+04/07 13:54:58.431 (+    3) <<27416>>(RTS) READ: 169.254.219.227,AutoCFG;
+04/07 13:54:58.539 (+  108) <<27416>>(RTS) WRITE: WHOAMI;
+04/07 13:54:58.539 (+    0) <<27416>>(RTS) READ: <M - IP=169.254.219.227, MAC=00:26:a1:02:89:81><2><S0 - IP=169.254.13.80, MAC=00:26:a1:02:89:4e><S1 - IP=169.254.200.1, MAC=00:26:a1:02:89:38>;
+04/07 13:54:58.651 (+  112) <<27416>>(RTS) WRITE: QRYALL,
+04/07 13:54:58.651 (+    0) <<27416>>(RTS) READ: V,0,10,0.0,0.0,0.000,60.000,0,20,0.0,0.0,0.000,60.000,0,30,0.0,0.0,0.000,60.000,0,40,0.0,0.0,360.000,60.000,I,0,11,0.0,0.0,0.000,60.000,0,21,0.0,0.0,0.000,60.000,0,31,0.0,0.0,0.000,60.000,BI,0000000000,BO,000000,EV,0,T,0.0000,T01,0.0,T02,0.0,T03,0.0,T04,0.0,T05,0.0,T06,0.0,T07,0.0,T08,0.0,T09,0.0,T10,0.0,P8000,16,P8k2,0,VDC,NA,BootCnt:42,DCAP0,Tmax,41.75,12,SMRT,SSF:NA,44.15,81.18,;
+04/07 13:54:58.763 (+  112) <<27416>>(RTS) WRITE: qboot1,
+04/07 13:54:58.763 (+    0) <<27416>>(RTS) READ: boot:1;
+04/07 13:54:58.875 (+  112) <<27416>>(RTS) WRITE: qboot2,
+04/07 13:54:58.875 (+    0) <<27416>>(RTS) READ: boot:1;
+04/07 13:54:58.987 (+  112) <<27416>>(RTS) WRITE: qboot3,
+04/07 13:54:59.991 (+ 1004) <<27416>>(RTS) READ 0 BYTES
+04/07 13:55:00.102 (+  111) <<27416>>(RTS) WRITE: qboot4,
+04/07 13:55:01.108 (+ 1006) <<27416>>(RTS) READ 0 BYTES
+04/07 13:55:01.220 (+  112) <<27416>>(RTS) WRITE: SYSSETF,
+04/07 13:55:06.228 (+ 5008) <<27416>>(RTS) READ 0 BYTES
+04/07 13:55:06.228 (+    0) <<27416>>(RTS) WRITE: SU;
+04/07 13:55:07.355 (+ 1127) <<27416>>(RTS) WRITE: QRYMAX,
+04/07 13:55:07.355 (+    0) <<27416>>(RTS) READ: V,300.000,300.000,300.000,150.0000,I,60.000,60.000,60.000,conti,32.000,32.000,32.000;
+04/07 13:55:07.466 (+  111) <<27416>>(RTS) WRITE: QLNFREQ;
+04/07 13:55:07.466 (+    0) <<27416>>(RTS) READ: 60.0;
+04/07 13:55:07.466 (+    0) <<27416>>(RTS) ConfigureEx(before batsim adjustment):  NumConvIRequested = 0, NumConvIAvailable = 3, NumI = 3, NumV = 4, NumCurrentOnlyChans = 3, UseLastVAsBat = 0, HasBatterySim = 0, bHasVGens = 1.
+04/07 13:55:07.466 (+    0) <<27416>>(RTS) ConfigureEx(after batsim adjustment):  NumConvIRequested = 0, NumConvIAvailable = 3, NumI = 3, NumV = 4, NumCurrentOnlyChans = 3, UseLastVAsBat = 0, HasBatterySim = 0, bHasVGens = 1.
+04/07 13:55:07.578 (+  112) <<27416>>(RTS) WRITE: BIV:1:0;
+04/07 13:55:07.582 (+    4) <<27416>>(RTS) READ: OK;
+04/07 13:55:07.689 (+  107) <<27416>>(RTS) WRITE: BIV:2:0;
+04/07 13:55:07.689 (+    0) <<27416>>(RTS) READ: OK;
+04/07 13:55:07.801 (+  112) <<27416>>(RTS) WRITE: QHS,
+04/07 13:55:07.805 (+    4) <<27416>>(RTS) READ: ACK;
+04/07 13:55:07.805 (+    0) <<27416>>(RTS) Sleeping 500 ms followed by RE; due to BIV status change...
+04/07 13:55:08.313 (+  508) <<27416>>(RTS) WRITE: RE;
+04/07 13:55:08.313 (+    0) <<27416>>(RTS) WRITE: T01CAU,T01HD,T01AD,T02CAU,T02HD,T02AD,T03CAU,T03HD,T03AD,T04CAU,T04HD,T04AD,T05CAU,T05HD,T05AD,T06CAU,T06HD,T06AD,T07CAU,T07HD,T07AD,T08CAU,T08HD,T08AD,T09CAU,T09HD,T09AD,T10CAU,T10HD,T10AD,TR,
+04/07 13:55:08.315 (+    2) <<27416>>(RTS) MonitorMode for BIN 1 = 
+04/07 13:55:08.315 (+    0) <<27416>>(RTS) LatchMonitor for BIN 1 = 1
+04/07 13:55:08.315 (+    0) <<27416>>(RTS) WRITE: t01m,t01sto,t01cal,VFMIN40E,VFMIN00O,,TR,
+04/07 13:55:08.426 (+  111) <<27416>>(RTS) WRITE: OCA:ON,
+04/07 13:55:08.601 (+  175) <<27416>>(RTS) WRITE: td2,DISON,HBOFF,HBV:OFF,v1,scale1.000,v2,scale1.000,v3,scale1.000,v4,scale1.000,c1,scale1.000,c2,scale1.000,c3,scale1.000,MAXV0.000000,MAXI0.000000,QHS,
+04/07 13:55:08.634 (+   33) <<27416>>(RTS) READ: ACK;
+04/07 13:55:08.746 (+  112) <<27416>>(RTS) WRITE: V1,DFLACON,DFLDCON,V2,DFLACON,DFLDCON,V3,DFLACON,DFLDCON,V4,DFLACON,DFLDCON,QHS,
+04/07 13:55:08.746 (+    0) <<27416>>(RTS) READ: ACK;
+04/07 13:55:08.856 (+  110) <<27416>>(RTS) WRITE: C1,DFLACON,DFLDCON,C2,DFLACON,DFLDCON,C3,DFLACON,DFLDCON;QHS,
+04/07 13:55:08.889 (+   33) <<27416>>(RTS) READ: ACK;
+04/07 13:55:08.889 (+    0) <<27416>>(RTS) WRITE: VASBAT0,T01AE:C0V0,parallel1,HEARTBEAT7,
+04/07 13:55:08.889 (+    0) <<27416>>(RTS) WRITE: ldlg01,
+04/07 13:55:08.889 (+    0) <<27416>>(RTS) WRITE: irigb0,iwfs0,
+04/07 13:55:09.001 (+  112) <<27416>>(RTS) WRITE: QRYMAX,
+04/07 13:55:09.001 (+    0) <<27416>>(RTS) READ: V,300.000,300.000,300.000,150.0000,I,60.000,60.000,60.000,conti,32.000,32.000,32.000;
+04/07 13:55:09.113 (+  112) <<27416>>(RTS) WRITE: QRYALL,
+04/07 13:55:09.113 (+    0) <<27416>>(RTS) READ: V,0,10,0.0,0.0,0.000,60.000,0,20,0.0,0.0,0.000,60.000,0,30,0.0,0.0,0.000,60.000,0,40,0.0,0.0,360.000,60.000,I,0,11,0.0,0.0,0.000,60.000,0,21,0.0,0.0,0.000,60.000,0,31,0.0,0.0,0.000,60.000,BI,0000000000,BO,000000,EV,0,T,0.0000,T01,0.0,T02,0.0,T03,0.0,T04,0.0,T05,0.0,T06,0.0,T07,0.0,T08,0.0,T09,0.0,T10,0.0,P8000,121,P8k2,0,VDC,NA,BootCnt:42,DCAP0,Tmax,41.75,12,SMRT,SSF:NA,43.88,65.45,;
+04/07 13:55:09.225 (+  112) <<27416>>(RTS) WRITE: QRYALL,
+04/07 13:55:09.225 (+    0) <<27416>>(RTS) READ: V,0,10,0.0,0.0,0.000,60.000,0,20,0.0,0.0,0.000,60.000,0,30,0.0,0.0,0.000,60.000,0,40,0.0,0.0,360.000,60.000,I,0,11,0.0,0.0,0.000,60.000,0,21,0.0,0.0,0.000,60.000,0,31,0.0,0.0,0.000,60.000,BI,0000000000,BO,000000,EV,0,T,0.0000,T01,0.0,T02,0.0,T03,0.0,T04,0.0,T05,0.0,T06,0.0,T07,0.0,T08,0.0,T09,0.0,T10,0.0,P8000,122,P8k2,0,VDC,NA,BootCnt:42,DCAP0,Tmax,41.75,12,SMRT,SSF:NA,43.90,50.15,;
+04/07 13:55:09.240 (+   15) <<27416>>(RTS) Power cfg check: PdbEmbedded = 0, SmrtModel = SMRT46P
+04/07 13:55:09.242 (+    2) <<27416>>(RTS) ConfigureEx(before batsim adjustment):  NumConvIRequested = 0, NumConvIAvailable = 3, NumI = 3, NumV = 4, NumCurrentOnlyChans = 3, UseLastVAsBat = 0, HasBatterySim = 0, bHasVGens = 1.
+04/07 13:55:09.242 (+    0) <<27416>>(RTS) ConfigureEx(after batsim adjustment):  NumConvIRequested = 0, NumConvIAvailable = 3, NumI = 3, NumV = 4, NumCurrentOnlyChans = 3, UseLastVAsBat = 0, HasBatterySim = 0, bHasVGens = 1.
+04/07 13:55:09.242 (+    0) <<27416>>(RTS) WRITE: T01CAU,T01HD,T01AD,T02CAU,T02HD,T02AD,T03CAU,T03HD,T03AD,T04CAU,T04HD,T04AD,T05CAU,T05HD,T05AD,T06CAU,T06HD,T06AD,T07CAU,T07HD,T07AD,T08CAU,T08HD,T08AD,T09CAU,T09HD,T09AD,T10CAU,T10HD,T10AD,TR,
+04/07 13:55:09.242 (+    0) <<27416>>(RTS) MonitorMode for BIN 1 = 
+04/07 13:55:09.242 (+    0) <<27416>>(RTS) LatchMonitor for BIN 1 = 1
+04/07 13:55:09.242 (+    0) <<27416>>(RTS) WRITE: t01m,t01sto,t01cal,VFMIN40E,VFMIN00O,,TR,
+04/07 13:55:09.368 (+  126) <<27416>>(RTS) WRITE: OCA:ON,
+04/07 13:55:09.543 (+  175) <<27416>>(RTS) WRITE: td2,DISON,HBOFF,HBV:OFF,v1,scale1.000,v2,scale1.000,v3,scale1.000,v4,scale1.000,c1,scale1.000,c2,scale1.000,c3,scale1.000,MAXV0.000000,MAXI0.000000,QHS,
+04/07 13:55:09.559 (+   16) <<27416>>(RTS) READ: ACK;
+04/07 13:55:09.670 (+  111) <<27416>>(RTS) WRITE: V1,DFLACON,DFLDCON,V2,DFLACON,DFLDCON,V3,DFLACON,DFLDCON,V4,DFLACON,DFLDCON,QHS,
+04/07 13:55:09.682 (+   12) <<27416>>(RTS) READ: ACK;
+04/07 13:55:09.781 (+   99) <<27416>>(RTS) WRITE: C1,DFLACON,DFLDCON,C2,DFLACON,DFLDCON,C3,DFLACON,DFLDCON;QHS,
+04/07 13:55:09.812 (+   31) <<27416>>(RTS) READ: ACK;
+04/07 13:55:09.812 (+    0) <<27416>>(RTS) WRITE: VASBAT0,T01AE:C0V0,parallel1,HEARTBEAT7,
+04/07 13:55:09.828 (+   16) <<27416>>(RTS) WRITE: ldlg01,
+04/07 13:55:09.828 (+    0) <<27416>>(RTS) WRITE: irigb0,iwfs0,
+04/07 13:55:09.941 (+  113) <<27416>>(RTS) WRITE: QRYMAX,
+04/07 13:55:09.941 (+    0) <<27416>>(RTS) READ: V,300.000,300.000,300.000,150.0000,I,60.000,60.000,60.000,conti,32.000,32.000,32.000;
+04/07 13:55:10.053 (+  112) <<27416>>(RTS) WRITE: QRYALL,
+04/07 13:55:10.053 (+    0) <<27416>>(RTS) READ: V,0,10,0.0,0.0,0.000,60.000,0,20,0.0,0.0,0.000,60.000,0,30,0.0,0.0,0.000,60.000,0,40,0.0,0.0,360.000,60.000,I,0,11,0.0,0.0,0.000,60.000,0,21,0.0,0.0,0.000,60.000,0,31,0.0,0.0,0.000,60.000,BI,0000000000,BO,000000,EV,0,T,0.0000,T01,0.0,T02,0.0,T03,0.0,T04,0.0,T05,0.0,T06,0.0,T07,0.0,T08,0.0,T09,0.0,T10,0.0,P8000,214,P8k2,0,VDC,NA,BootCnt:42,DCAP0,Tmax,41.75,12,SMRT,SSF:NA,43.89,63.75,;
+04/07 13:55:10.064 (+   11) <<27416>>(RTS) WRITE: td2,t01m,t01cal,t01HD,TR,
+04/07 13:55:10.165 (+  101) <<27416>>(RTS) WRITE: qg,
+04/07 13:55:10.181 (+   16) <<27416>>(RTS) READ: GATE0000;
+04/07 13:55:10.191 (+   10) <<27416>>(RTS) Inside SetChannelOnColor
+04/07 13:55:10.191 (+    0) <<27416>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = IAmp_1,IPhase_1,IFreq_1
+04/07 13:55:10.191 (+    0) <<27416>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = IAmp_2,IPhase_2,IFreq_2
+04/07 13:55:10.191 (+    0) <<27416>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = IAmp_3,IPhase_3,IFreq_3
+04/07 13:55:10.191 (+    0) <<27416>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = VAmp_1,VPhase_1,VFreq_1
+04/07 13:55:10.197 (+    6) <<27416>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = VAmp_2,VPhase_2,VFreq_2
+04/07 13:55:10.197 (+    0) <<27416>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = VAmp_3,VPhase_3,VFreq_3
+04/07 13:55:10.197 (+    0) <<27416>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = VAmp_4,VPhase_4,VFreq_4
+04/07 13:55:10.197 (+    0) <<27416>>(RTS) WRITE: td2,t01m,t01cal,t01HD,TR,
+04/07 13:55:10.309 (+  112) <<27416>>(RTS) WRITE: qg,
+04/07 13:55:10.325 (+   16) <<27416>>(RTS) READ: GATE0000;
+04/07 13:55:10.325 (+    0) <<27416>>(RTS) End of OnConnect
+04/07 13:55:10.768 (+  443) <<27416>>(RTS) Subforms: __MprtVirtualFrontPanel
+04/07 13:55:10.768 (+    0) <<27416>>(RTS) Contact Time = 0
+04/07 13:55:12.330 (+ 1562) <<26064>>(RELAY) CLOSE SERIAL
+04/07 13:55:12.438 (+  108) <<26064>>(RTS) CLOSE SOCKET
+04/07 13:55:12.438 (+    0) <<26064>>(RTS) Open
+04/07 13:55:12.443 (+    5) <<26064>>(RTS) m_DetectedIp = 0.0.0.0
+04/07 13:55:12.500 (+   57) <<26064>>(RTS) Ether Detect(0):  Sending UDP @ 8001, MEGGER
+04/07 13:55:12.500 (+    0) <<26064>>(RTS) Ether Detect(0):  successfully sent 6 bytes from IP 169.254.215.105
+04/07 13:55:12.500 (+    0) <<26064>>(RTS) Ether Detect(0):  Sending UDP @ 8001, MEGGER
+04/07 13:55:12.502 (+    2) <<26064>>(RTS) Ether Detect(0):  successfully sent 6 bytes from IP 172.21.144.1
+04/07 13:55:12.502 (+    0) <<26064>>(RTS) Ether Detect(1):  Sending UDP @ 8001, MEGGER
+04/07 13:55:12.502 (+    0) <<26064>>(RTS) Ether Detect(1):  successfully sent 6 bytes from IP 169.254.215.105
+04/07 13:55:12.502 (+    0) <<26064>>(RTS) Ether Detect(1):  Sending UDP @ 8001, MEGGER
+04/07 13:55:12.502 (+    0) <<26064>>(RTS) Ether Detect(1):  successfully sent 6 bytes from IP 172.21.144.1
+04/07 13:55:12.502 (+    0) <<26064>>(RTS) Ether Detect(2):  Sending UDP @ 8001, MEGGER
+04/07 13:55:12.502 (+    0) <<26064>>(RTS) Ether Detect(2):  successfully sent 6 bytes from IP 169.254.215.105
+04/07 13:55:12.502 (+    0) <<26064>>(RTS) Ether Detect(2):  Sending UDP @ 8001, MEGGER
+04/07 13:55:12.502 (+    0) <<26064>>(RTS) Ether Detect(2):  successfully sent 6 bytes from IP 172.21.144.1
+04/07 13:55:12.532 (+   30) <<26064>>(RTS) Ether Detect:  NumBytes = 6, MEGGER
+04/07 13:55:12.532 (+    0) <<26064>>(RTS) Ether Detect:  NumBytes = 6, MEGGER
+04/07 13:55:12.532 (+    0) <<26064>>(RTS) Ether Detect:  NumBytes = 37, SMRT-202507070001-46P-2 min-6.41200-A
+04/07 13:55:12.532 (+    0) <<26064>>(RTS) Ether Detect:  NumBytes = 37, SMRT-202507070001-46P-2 min-6.41200-A
+04/07 13:55:15.013 (+ 2481) <<26064>>(RTS) m_DetectedIp = 169.254.219.227
+04/07 13:55:15.236 (+  223) <<26064>>(RTS) Testing connection...
+04/07 13:55:15.444 (+  208) <<26064>>(RTS) WRITE: qg,
+04/07 13:55:15.444 (+    0) <<26064>>(RTS) READ: GATE0000;
+04/07 13:55:15.444 (+    0) <<26064>>(RTS) Connection status: OK
+04/07 13:55:15.444 (+    0) <<26064>>(RTS) OPEN SOCKET at IP Address '169.254.219.227' : 8000
+04/07 13:55:15.444 (+    0) <<26064>>(RTS) Device opened
+04/07 13:55:15.555 (+  111) <<26064>>(RTS) WRITE: HSU;
+04/07 13:55:15.619 (+   64) <<26064>>(RTS) READ: HSU;
+04/07 13:55:15.730 (+  111) <<26064>>(RTS) WRITE: QC;
+04/07 13:55:15.730 (+    0) <<26064>>(RTS) READ:
+04/07 13:55:15.730 (+    0) <<26064>>(RTS) <G4>,<Model:SMRT46P><VER><12,23,25><Rel_>,<IO><10,6><SN><202507070001>,/<G><1><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1725SM00001><DspRev:2.00><GenSn:202506081028><GenBoardSn:><PfcSn:><PfcType:0131>/,/<G><2><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1425SM00158><DspRev:2.00><GenSn:202506081029><GenBoardSn:><PfcSn:><PfcType:0131>/,/<G><3><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1425SM00054><DspRev:2.00><GenSn:202504081083><GenBoardSn:><PfcSn:><PfcType:0
+04/07 13:55:15.730 (+    0) <<26064>>(RTS) 000>/,/<G><4><VER><6.41200><GenRev:4.00>,<0><V><CalRev:2.10><DspBoardSn:1725SM00001><DspRev:2.00><GenSn:202506081155><GenBoardSn:><PfcSn:><PfcType:0000>/,<SMRT><PN:SMRT46-30P0F1A0S1><SysBdAsySn:202506081155><SysBoardType:5.2,A><IEC61850:0><AdvSoft:0><BIS0>;
+04/07 13:55:15.842 (+  112) <<26064>>(RTS) WRITE: flag:rogkey:qry,
+04/07 13:55:15.842 (+    0) <<26064>>(RTS) READ: 0;
+04/07 13:55:15.842 (+    0) <<26064>>(RTS) NumCurrentOnlyChans = 3
+04/07 13:55:15.857 (+   15) <<26064>>(RTS) GetSmrtInfo  bSmrt = 1
+04/07 13:55:15.968 (+  111) <<26064>>(RTS) WRITE: QC,
+04/07 13:55:15.970 (+    2) <<26064>>(RTS) READ:
+04/07 13:55:15.970 (+    0) <<26064>>(RTS) <G4>,<Model:SMRT46P><VER><12,23,25><Rel_>,<IO><10,6><SN><202507070001>,/<G><1><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1725SM00001><DspRev:2.00><GenSn:202506081028><GenBoardSn:><PfcSn:><PfcType:0131>/,/<G><2><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1425SM00158><DspRev:2.00><GenSn:202506081029><GenBoardSn:><PfcSn:><PfcType:0131>/,/<G><3><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1425SM00054><DspRev:2.00><GenSn:202504081083><GenBoardSn:><PfcSn:><PfcType:0
+04/07 13:55:15.981 (+   11) <<26064>>(RTS) 000>/,/<G><4><VER><6.41200><GenRev:4.00>,<0><V><CalRev:2.10><DspBoardSn:1725SM00001><DspRev:2.00><GenSn:202506081155><GenBoardSn:><PfcSn:><PfcType:0000>/,<SMRT><PN:SMRT46-30P0F1A0S1><SysBdAsySn:202506081155><SysBoardType:5.2,A><IEC61850:0><AdvSoft:0><BIS0>;
+04/07 13:55:15.981 (+    0) <<26064>>(RTS) WRITE: MPRTMODEOF,
+04/07 13:55:16.081 (+  100) <<26064>>(RTS) WRITE: QC;
+04/07 13:55:16.081 (+    0) <<26064>>(RTS) READ:
+04/07 13:55:16.081 (+    0) <<26064>>(RTS) <G4>,<Model:SMRT46P><VER><12,23,25><Rel_>,<IO><10,6><SN><202507070001>,/<G><1><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1725SM00001><DspRev:2.00><GenSn:202506081028><GenBoardSn:><PfcSn:><PfcType:0131>/,/<G><2><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1425SM00158><DspRev:2.00><GenSn:202506081029><GenBoardSn:><PfcSn:><PfcType:0131>/,/<G><3><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1425SM00054><DspRev:2.00><GenSn:202504081083><GenBoardSn:><PfcSn:><PfcType:0
+04/07 13:55:16.081 (+    0) <<26064>>(RTS) 000>/,/<G><4><VER><6.41200><GenRev:4.00>,<0><V><CalRev:2.10><DspBoardSn:1725SM00001><DspRev:2.00><GenSn:202506081155><GenBoardSn:><PfcSn:><PfcType:0000>/,<SMRT><PN:SMRT46-30P0F1A0S1><SysBdAsySn:202506081155><SysBoardType:5.2,A><IEC61850:0><AdvSoft:0><BIS0>;
+04/07 13:55:16.192 (+  111) <<26064>>(RTS) WRITE: flag:rogkey:qry,
+04/07 13:55:16.192 (+    0) <<26064>>(RTS) READ: 0;
+04/07 13:55:16.192 (+    0) <<26064>>(RTS) NumCurrentOnlyChans = 3
+04/07 13:55:16.203 (+   11) <<26064>>(RTS) GetSmrtInfo  bSmrt = 1
+04/07 13:55:16.303 (+  100) <<26064>>(RTS) WRITE: QC;
+04/07 13:55:16.312 (+    9) <<26064>>(RTS) READ:
+04/07 13:55:16.312 (+    0) <<26064>>(RTS) <G4>,<Model:SMRT46P><VER><12,23,25><Rel_>,<IO><10,6><SN><202507070001>,/<G><1><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1725SM00001><DspRev:2.00><GenSn:202506081028><GenBoardSn:><PfcSn:><PfcType:0131>/,/<G><2><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1425SM00158><DspRev:2.00><GenSn:202506081029><GenBoardSn:><PfcSn:><PfcType:0131>/,/<G><3><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1425SM00054><DspRev:2.00><GenSn:202504081083><GenBoardSn:><PfcSn:><PfcType:0
+04/07 13:55:16.312 (+    0) <<26064>>(RTS) 000>/,/<G><4><VER><6.41200><GenRev:4.00>,<0><V><CalRev:2.10><DspBoardSn:1725SM00001><DspRev:2.00><GenSn:202506081155><GenBoardSn:><PfcSn:><PfcType:0000>/,<SMRT><PN:SMRT46-30P0F1A0S1><SysBdAsySn:202506081155><SysBoardType:5.2,A><IEC61850:0><AdvSoft:0><BIS0>;
+04/07 13:55:16.414 (+  102) <<26064>>(RTS) WRITE: flag:rogkey:qry,
+04/07 13:55:16.414 (+    0) <<26064>>(RTS) READ: 0;
+04/07 13:55:16.493 (+   79) <<26064>>(RTS) WRITE: QVER;
+04/07 13:55:16.493 (+    0) <<26064>>(RTS) READ: DSP0:6.41200,CPLD:8,Boot:1.052;DSP1:6.41200,CPLD:8,Boot:1.052;DSP2:6.41200,CPLD:8,Boot:1.052;
+04/07 13:55:16.604 (+  111) <<26064>>(RTS) WRITE: QIP;
+04/07 13:55:16.604 (+    0) <<26064>>(RTS) READ: 169.254.219.227,AutoCFG;
+04/07 13:55:16.715 (+  111) <<26064>>(RTS) WRITE: WHOAMI;
+04/07 13:55:16.715 (+    0) <<26064>>(RTS) READ: <M - IP=169.254.219.227, MAC=00:26:a1:02:89:81><2><S0 - IP=169.254.13.80, MAC=00:26:a1:02:89:4e><S1 - IP=169.254.200.1, MAC=00:26:a1:02:89:38>;
+04/07 13:55:16.827 (+  112) <<26064>>(RTS) WRITE: QRYALL,
+04/07 13:55:16.827 (+    0) <<26064>>(RTS) READ: V,0,10,0.0,0.0,0.000,60.000,0,20,0.0,0.0,0.000,60.000,0,30,0.0,0.0,0.000,60.000,0,40,0.0,0.0,360.000,60.000,I,0,11,0.0,0.0,0.000,60.000,0,21,0.0,0.0,0.000,60.000,0,31,0.0,0.0,0.000,60.000,BI,0000000000,BO,000000,EV,0,T,0.0000,T01,0.0,T02,0.0,T03,0.0,T04,0.0,T05,0.0,T06,0.0,T07,0.0,T08,0.0,T09,0.0,T10,0.0,P8000,16,P8k2,0,VDC,NA,BootCnt:42,DCAP0,Tmax,41.75,12,SMRT,SSF:NA,44.24,63.75,;
+04/07 13:55:16.938 (+  111) <<26064>>(RTS) WRITE: qboot1,
+04/07 13:55:16.938 (+    0) <<26064>>(RTS) READ: boot:1;
+04/07 13:55:17.050 (+  112) <<26064>>(RTS) WRITE: qboot2,
+04/07 13:55:17.050 (+    0) <<26064>>(RTS) READ: boot:1;
+04/07 13:55:17.162 (+  112) <<26064>>(RTS) WRITE: qboot3,
+04/07 13:55:18.167 (+ 1005) <<26064>>(RTS) READ 0 BYTES
+04/07 13:55:18.278 (+  111) <<26064>>(RTS) WRITE: qboot4,
+04/07 13:55:19.285 (+ 1007) <<26064>>(RTS) READ 0 BYTES
+04/07 13:55:19.396 (+  111) <<26064>>(RTS) WRITE: SYSSETF,
+04/07 13:55:19.396 (+    0) <<26064>>(RTS) READ: Done!!;
+04/07 13:55:19.396 (+    0) <<26064>>(RTS) WRITE: SU;
+04/07 13:55:20.531 (+ 1135) <<26064>>(RTS) WRITE: QRYMAX,
+04/07 13:55:20.531 (+    0) <<26064>>(RTS) READ: V,300.000,300.000,300.000,150.0000,I,60.000,60.000,60.000,conti,32.000,32.000,32.000;
+04/07 13:55:20.641 (+  110) <<26064>>(RTS) WRITE: QLNFREQ;
+04/07 13:55:20.641 (+    0) <<26064>>(RTS) READ: 60.0;
+04/07 13:55:20.641 (+    0) <<26064>>(RTS) ConfigureEx(before batsim adjustment):  NumConvIRequested = 0, NumConvIAvailable = 3, NumI = 3, NumV = 4, NumCurrentOnlyChans = 3, UseLastVAsBat = 0, HasBatterySim = 0, bHasVGens = 1.
+04/07 13:55:20.641 (+    0) <<26064>>(RTS) ConfigureEx(after batsim adjustment):  NumConvIRequested = 0, NumConvIAvailable = 3, NumI = 3, NumV = 4, NumCurrentOnlyChans = 3, UseLastVAsBat = 0, HasBatterySim = 0, bHasVGens = 1.
+04/07 13:55:20.752 (+  111) <<26064>>(RTS) WRITE: BIV:1:0;
+04/07 13:55:20.752 (+    0) <<26064>>(RTS) READ: OK;
+04/07 13:55:20.864 (+  112) <<26064>>(RTS) WRITE: BIV:2:0;
+04/07 13:55:20.864 (+    0) <<26064>>(RTS) READ: OK;
+04/07 13:55:20.976 (+  112) <<26064>>(RTS) WRITE: QHS,
+04/07 13:55:20.977 (+    1) <<26064>>(RTS) READ: ACK;
+04/07 13:55:20.977 (+    0) <<26064>>(RTS) Sleeping 500 ms followed by RE; due to BIV status change...
+04/07 13:55:21.485 (+  508) <<26064>>(RTS) WRITE: RE;
+04/07 13:55:21.485 (+    0) <<26064>>(RTS) WRITE: T01CAU,T01HD,T01AD,T02CAU,T02HD,T02AD,T03CAU,T03HD,T03AD,T04CAU,T04HD,T04AD,T05CAU,T05HD,T05AD,T06CAU,T06HD,T06AD,T07CAU,T07HD,T07AD,T08CAU,T08HD,T08AD,T09CAU,T09HD,T09AD,T10CAU,T10HD,T10AD,TR,
+04/07 13:55:21.485 (+    0) <<26064>>(RTS) MonitorMode for BIN 1 = 
+04/07 13:55:21.485 (+    0) <<26064>>(RTS) LatchMonitor for BIN 1 = 1
+04/07 13:55:21.485 (+    0) <<26064>>(RTS) WRITE: t01m,t01sto,t01cal,VFMIN40E,VFMIN00O,,TR,
+04/07 13:55:21.597 (+  112) <<26064>>(RTS) WRITE: OCA:ON,
+04/07 13:55:21.772 (+  175) <<26064>>(RTS) WRITE: td2,DISON,HBOFF,HBV:OFF,v1,scale1.000,v2,scale1.000,v3,scale1.000,v4,scale1.000,c1,scale1.000,c2,scale1.000,c3,scale1.000,MAXV0.000000,MAXI0.000000,QHS,
+04/07 13:55:21.802 (+   30) <<26064>>(RTS) READ: ACK;
+04/07 13:55:21.915 (+  113) <<26064>>(RTS) WRITE: V1,DFLACON,DFLDCON,V2,DFLACON,DFLDCON,V3,DFLACON,DFLDCON,V4,DFLACON,DFLDCON,QHS,
+04/07 13:55:21.920 (+    5) <<26064>>(RTS) READ: ACK;
+04/07 13:55:22.026 (+  106) <<26064>>(RTS) WRITE: C1,DFLACON,DFLDCON,C2,DFLACON,DFLDCON,C3,DFLACON,DFLDCON;QHS,
+04/07 13:55:22.058 (+   32) <<26064>>(RTS) READ: ACK;
+04/07 13:55:22.058 (+    0) <<26064>>(RTS) WRITE: VASBAT0,T01AE:C0V0,parallel1,HEARTBEAT7,
+04/07 13:55:22.058 (+    0) <<26064>>(RTS) WRITE: ldlg01,
+04/07 13:55:22.058 (+    0) <<26064>>(RTS) WRITE: irigb0,iwfs0,
+04/07 13:55:22.170 (+  112) <<26064>>(RTS) WRITE: QRYMAX,
+04/07 13:55:22.170 (+    0) <<26064>>(RTS) READ: V,300.000,300.000,300.000,150.0000,I,60.000,60.000,60.000,conti,32.000,32.000,32.000;
+04/07 13:55:22.282 (+  112) <<26064>>(RTS) WRITE: QRYALL,
+04/07 13:55:22.282 (+    0) <<26064>>(RTS) READ: V,0,10,0.0,0.0,0.000,60.000,0,20,0.0,0.0,0.000,60.000,0,30,0.0,0.0,0.000,60.000,0,40,0.0,0.0,360.000,60.000,I,0,11,0.0,0.0,0.000,60.000,0,21,0.0,0.0,0.000,60.000,0,31,0.0,0.0,0.000,60.000,BI,0000000000,BO,000000,EV,0,T,0.0000,T01,0.0,T02,0.0,T03,0.0,T04,0.0,T05,0.0,T06,0.0,T07,0.0,T08,0.0,T09,0.0,T10,0.0,P8000,121,P8k2,0,VDC,NA,BootCnt:42,DCAP0,Tmax,41.75,12,SMRT,SSF:NA,44.07,65.88,;
+04/07 13:55:22.394 (+  112) <<26064>>(RTS) WRITE: QRYALL,
+04/07 13:55:22.394 (+    0) <<26064>>(RTS) READ: V,0,10,0.0,0.0,0.000,60.000,0,20,0.0,0.0,0.000,60.000,0,30,0.0,0.0,0.000,60.000,0,40,0.0,0.0,360.000,60.000,I,0,11,0.0,0.0,0.000,60.000,0,21,0.0,0.0,0.000,60.000,0,31,0.0,0.0,0.000,60.000,BI,0000000000,BO,000000,EV,0,T,0.0000,T01,0.0,T02,0.0,T03,0.0,T04,0.0,T05,0.0,T06,0.0,T07,0.0,T08,0.0,T09,0.0,T10,0.0,P8000,122,P8k2,0,VDC,NA,BootCnt:42,DCAP0,Tmax,41.75,12,SMRT,SSF:NA,44.57,50.15,;
+04/07 13:55:22.394 (+    0) <<26064>>(RTS) Power cfg check: PdbEmbedded = 0, SmrtModel = SMRT46P
+04/07 13:55:22.410 (+   16) <<26064>>(RTS) ConfigureEx(before batsim adjustment):  NumConvIRequested = 0, NumConvIAvailable = 3, NumI = 3, NumV = 4, NumCurrentOnlyChans = 3, UseLastVAsBat = 0, HasBatterySim = 0, bHasVGens = 1.
+04/07 13:55:22.417 (+    7) <<26064>>(RTS) ConfigureEx(after batsim adjustment):  NumConvIRequested = 0, NumConvIAvailable = 3, NumI = 3, NumV = 4, NumCurrentOnlyChans = 3, UseLastVAsBat = 0, HasBatterySim = 0, bHasVGens = 1.
+04/07 13:55:22.417 (+    0) <<26064>>(RTS) WRITE: T01CAU,T01HD,T01AD,T02CAU,T02HD,T02AD,T03CAU,T03HD,T03AD,T04CAU,T04HD,T04AD,T05CAU,T05HD,T05AD,T06CAU,T06HD,T06AD,T07CAU,T07HD,T07AD,T08CAU,T08HD,T08AD,T09CAU,T09HD,T09AD,T10CAU,T10HD,T10AD,TR,
+04/07 13:55:22.417 (+    0) <<26064>>(RTS) MonitorMode for BIN 1 = 
+04/07 13:55:22.417 (+    0) <<26064>>(RTS) LatchMonitor for BIN 1 = 1
+04/07 13:55:22.417 (+    0) <<26064>>(RTS) WRITE: t01m,t01sto,t01cal,VFMIN40E,VFMIN00O,,TR,
+04/07 13:55:22.521 (+  104) <<26064>>(RTS) WRITE: OCA:ON,
+04/07 13:55:22.696 (+  175) <<26064>>(RTS) WRITE: td2,DISON,HBOFF,HBV:OFF,v1,scale1.000,v2,scale1.000,v3,scale1.000,v4,scale1.000,c1,scale1.000,c2,scale1.000,c3,scale1.000,MAXV0.000000,MAXI0.000000,QHS,
+04/07 13:55:22.728 (+   32) <<26064>>(RTS) READ: ACK;
+04/07 13:55:22.839 (+  111) <<26064>>(RTS) WRITE: V1,DFLACON,DFLDCON,V2,DFLACON,DFLDCON,V3,DFLACON,DFLDCON,V4,DFLACON,DFLDCON,QHS,
+04/07 13:55:22.839 (+    0) <<26064>>(RTS) READ: ACK;
+04/07 13:55:22.952 (+  113) <<26064>>(RTS) WRITE: C1,DFLACON,DFLDCON,C2,DFLACON,DFLDCON,C3,DFLACON,DFLDCON;QHS,
+04/07 13:55:22.984 (+   32) <<26064>>(RTS) READ: ACK;
+04/07 13:55:22.984 (+    0) <<26064>>(RTS) WRITE: VASBAT0,T01AE:C0V0,parallel1,HEARTBEAT7,
+04/07 13:55:22.984 (+    0) <<26064>>(RTS) WRITE: ldlg01,
+04/07 13:55:22.984 (+    0) <<26064>>(RTS) WRITE: irigb0,iwfs0,
+04/07 13:55:23.096 (+  112) <<26064>>(RTS) WRITE: QRYMAX,
+04/07 13:55:23.096 (+    0) <<26064>>(RTS) READ: V,300.000,300.000,300.000,150.0000,I,60.000,60.000,60.000,conti,32.000,32.000,32.000;
+04/07 13:55:23.208 (+  112) <<26064>>(RTS) WRITE: QRYALL,
+04/07 13:55:23.208 (+    0) <<26064>>(RTS) READ: V,0,10,0.0,0.0,0.000,60.000,0,20,0.0,0.0,0.000,60.000,0,30,0.0,0.0,0.000,60.000,0,40,0.0,0.0,360.000,60.000,I,0,11,0.0,0.0,0.000,60.000,0,21,0.0,0.0,0.000,60.000,0,31,0.0,0.0,0.000,60.000,BI,0000000000,BO,000000,EV,0,T,0.0000,T01,0.0,T02,0.0,T03,0.0,T04,0.0,T05,0.0,T06,0.0,T07,0.0,T08,0.0,T09,0.0,T10,0.0,P8000,214,P8k2,0,VDC,NA,BootCnt:42,DCAP0,Tmax,41.75,12,SMRT,SSF:NA,43.57,63.75,;
+04/07 13:55:23.218 (+   10) <<26064>>(RTS) WRITE: td2,t01m,t01cal,t01HD,TR,
+04/07 13:55:23.321 (+  103) <<26064>>(RTS) WRITE: qg,
+04/07 13:55:23.337 (+   16) <<26064>>(RTS) READ: GATE0000;
+04/07 13:55:23.419 (+   82) <<26064>>(RTS) Inside SetChannelOnColor
+04/07 13:55:23.419 (+    0) <<26064>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = IAmp_1,IPhase_1,IFreq_1
+04/07 13:55:23.419 (+    0) <<27416>>(RTS) Subforms: __MprtVirtualFrontPanel
+04/07 13:55:23.419 (+    0) <<27416>>(RTS) Contact Time = 0
+04/07 13:55:23.433 (+   14) <<26064>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = IAmp_2,IPhase_2,IFreq_2
+04/07 13:55:23.433 (+    0) <<26064>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = IAmp_3,IPhase_3,IFreq_3
+04/07 13:55:23.433 (+    0) <<26064>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = VAmp_1,VPhase_1,VFreq_1
+04/07 13:55:23.433 (+    0) <<26064>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = VAmp_2,VPhase_2,VFreq_2
+04/07 13:55:23.433 (+    0) <<26064>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = VAmp_3,VPhase_3,VFreq_3
+04/07 13:55:23.433 (+    0) <<26064>>InsideSetBgColor m_bOn = false bMasterOn = false Tags = VAmp_4,VPhase_4,VFreq_4
+04/07 13:55:23.433 (+    0) <<26064>>(RTS) WRITE: td2,t01m,t01cal,t01HD,TR,
+04/07 13:55:23.545 (+  112) <<26064>>(RTS) WRITE: qg,
+04/07 13:55:23.560 (+   15) <<26064>>(RTS) READ: GATE0000;
+04/07 13:55:23.719 (+  159) <<26064>>(RTS) End of OnConnect
+04/07 13:55:24.704 (+  985) <<26064>>(RELAY) CLOSE SERIAL
+04/07 13:55:24.818 (+  114) <<26064>>(RTS) CLOSE SOCKET
+04/07 13:55:24.818 (+    0) <<26064>>(RTS) Open
+04/07 13:55:24.821 (+    3) <<26064>>(RTS) m_DetectedIp = 0.0.0.0
+04/07 13:55:24.881 (+   60) <<26064>>(RTS) Ether Detect(0):  Sending UDP @ 8001, MEGGER
+04/07 13:55:24.881 (+    0) <<26064>>(RTS) Ether Detect(0):  successfully sent 6 bytes from IP 169.254.215.105
+04/07 13:55:24.881 (+    0) <<26064>>(RTS) Ether Detect(0):  Sending UDP @ 8001, MEGGER
+04/07 13:55:24.881 (+    0) <<26064>>(RTS) Ether Detect(0):  successfully sent 6 bytes from IP 172.21.144.1
+04/07 13:55:24.881 (+    0) <<26064>>(RTS) Ether Detect(1):  Sending UDP @ 8001, MEGGER
+04/07 13:55:24.881 (+    0) <<26064>>(RTS) Ether Detect(1):  successfully sent 6 bytes from IP 169.254.215.105
+04/07 13:55:24.881 (+    0) <<26064>>(RTS) Ether Detect(1):  Sending UDP @ 8001, MEGGER
+04/07 13:55:24.881 (+    0) <<26064>>(RTS) Ether Detect(1):  successfully sent 6 bytes from IP 172.21.144.1
+04/07 13:55:24.881 (+    0) <<26064>>(RTS) Ether Detect(2):  Sending UDP @ 8001, MEGGER
+04/07 13:55:24.881 (+    0) <<26064>>(RTS) Ether Detect(2):  successfully sent 6 bytes from IP 169.254.215.105
+04/07 13:55:24.881 (+    0) <<26064>>(RTS) Ether Detect(2):  Sending UDP @ 8001, MEGGER
+04/07 13:55:24.881 (+    0) <<26064>>(RTS) Ether Detect(2):  successfully sent 6 bytes from IP 172.21.144.1
+04/07 13:55:24.881 (+    0) <<26064>>(RTS) Ether Detect:  NumBytes = 6, MEGGER
+04/07 13:55:24.881 (+    0) <<26064>>(RTS) Ether Detect:  NumBytes = 37, SMRT-202507070001-46P-2 min-6.41200-A
+04/07 13:55:24.881 (+    0) <<26064>>(RTS) Ether Detect:  NumBytes = 6, MEGGER
+04/07 13:55:24.881 (+    0) <<26064>>(RTS) Ether Detect:  NumBytes = 37, SMRT-202507070001-46P-2 min-6.41200-A
+04/07 13:55:27.384 (+ 2503) <<26064>>(RTS) m_DetectedIp = 169.254.219.227
+04/07 13:55:27.607 (+  223) <<26064>>(RTS) Testing connection...
+04/07 13:55:27.813 (+  206) <<26064>>(RTS) WRITE: qg,
+04/07 13:55:27.815 (+    2) <<26064>>(RTS) READ: GATE0000;
+04/07 13:55:27.815 (+    0) <<26064>>(RTS) Connection status: OK
+04/07 13:55:27.815 (+    0) <<26064>>(RTS) OPEN SOCKET at IP Address '169.254.219.227' : 8000
+04/07 13:55:27.815 (+    0) <<26064>>(RTS) Device opened
+04/07 13:55:27.924 (+  109) <<26064>>(RTS) WRITE: HSU;
+04/07 13:55:27.988 (+   64) <<26064>>(RTS) READ: HSU;
+04/07 13:55:28.100 (+  112) <<26064>>(RTS) WRITE: QC;
+04/07 13:55:28.100 (+    0) <<26064>>(RTS) READ:
+04/07 13:55:28.100 (+    0) <<26064>>(RTS) <G4>,<Model:SMRT46P><VER><12,23,25><Rel_>,<IO><10,6><SN><202507070001>,/<G><1><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1725SM00001><DspRev:2.00><GenSn:202506081028><GenBoardSn:><PfcSn:><PfcType:0131>/,/<G><2><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1425SM00158><DspRev:2.00><GenSn:202506081029><GenBoardSn:><PfcSn:><PfcType:0131>/,/<G><3><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1425SM00054><DspRev:2.00><GenSn:202504081083><GenBoardSn:><PfcSn:><PfcType:0
+04/07 13:55:28.100 (+    0) <<26064>>(RTS) 000>/,/<G><4><VER><6.41200><GenRev:4.00>,<0><V><CalRev:2.10><DspBoardSn:1725SM00001><DspRev:2.00><GenSn:202506081155><GenBoardSn:><PfcSn:><PfcType:0000>/,<SMRT><PN:SMRT46-30P0F1A0S1><SysBdAsySn:202506081155><SysBoardType:5.2,A><IEC61850:0><AdvSoft:0><BIS0>;
+04/07 13:55:28.213 (+  113) <<26064>>(RTS) WRITE: flag:rogkey:qry,
+04/07 13:55:28.213 (+    0) <<26064>>(RTS) READ: 0;
+04/07 13:55:28.213 (+    0) <<26064>>(RTS) NumCurrentOnlyChans = 3
+04/07 13:55:28.213 (+    0) <<26064>>(RTS) GetSmrtInfo  bSmrt = 1
+04/07 13:55:28.325 (+  112) <<26064>>(RTS) WRITE: QC,
+04/07 13:55:28.336 (+   11) <<26064>>(RTS) READ:
+04/07 13:55:28.336 (+    0) <<26064>>(RTS) <G4>,<Model:SMRT46P><VER><12,23,25><Rel_>,<IO><10,6><SN><202507070001>,/<G><1><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1725SM00001><DspRev:2.00><GenSn:202506081028><GenBoardSn:><PfcSn:><PfcType:0131>/,/<G><2><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1425SM00158><DspRev:2.00><GenSn:202506081029><GenBoardSn:><PfcSn:><PfcType:0131>/,/<G><3><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1425SM00054><DspRev:2.00><GenSn:202504081083><GenBoardSn:><PfcSn:><PfcType:0
+04/07 13:55:28.336 (+    0) <<26064>>(RTS) 000>/,/<G><4><VER><6.41200><GenRev:4.00>,<0><V><CalRev:2.10><DspBoardSn:1725SM00001><DspRev:2.00><GenSn:202506081155><GenBoardSn:><PfcSn:><PfcType:0000>/,<SMRT><PN:SMRT46-30P0F1A0S1><SysBdAsySn:202506081155><SysBoardType:5.2,A><IEC61850:0><AdvSoft:0><BIS0>;
+04/07 13:55:28.338 (+    2) <<26064>>(RTS) WRITE: MPRTMODEOF,
+04/07 13:55:28.467 (+  129) <<26064>>(RTS) WRITE: QC;
+04/07 13:55:28.467 (+    0) <<26064>>(RTS) READ:
+04/07 13:55:28.467 (+    0) <<26064>>(RTS) <G4>,<Model:SMRT46P><VER><12,23,25><Rel_>,<IO><10,6><SN><202507070001>,/<G><1><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1725SM00001><DspRev:2.00><GenSn:202506081028><GenBoardSn:><PfcSn:><PfcType:0131>/,/<G><2><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1425SM00158><DspRev:2.00><GenSn:202506081029><GenBoardSn:><PfcSn:><PfcType:0131>/,/<G><3><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1425SM00054><DspRev:2.00><GenSn:202504081083><GenBoardSn:><PfcSn:><PfcType:0
+04/07 13:55:28.481 (+   14) <<26064>>(RTS) 000>/,/<G><4><VER><6.41200><GenRev:4.00>,<0><V><CalRev:2.10><DspBoardSn:1725SM00001><DspRev:2.00><GenSn:202506081155><GenBoardSn:><PfcSn:><PfcType:0000>/,<SMRT><PN:SMRT46-30P0F1A0S1><SysBdAsySn:202506081155><SysBoardType:5.2,A><IEC61850:0><AdvSoft:0><BIS0>;
+04/07 13:55:28.580 (+   99) <<26064>>(RTS) WRITE: flag:rogkey:qry,
+04/07 13:55:28.580 (+    0) <<26064>>(RTS) READ: 0;
+04/07 13:55:28.580 (+    0) <<26064>>(RTS) NumCurrentOnlyChans = 3
+04/07 13:55:28.595 (+   15) <<26064>>(RTS) GetSmrtInfo  bSmrt = 1
+04/07 13:55:28.707 (+  112) <<26064>>(RTS) WRITE: QC;
+04/07 13:55:28.717 (+   10) <<26064>>(RTS) READ:
+04/07 13:55:28.717 (+    0) <<26064>>(RTS) <G4>,<Model:SMRT46P><VER><12,23,25><Rel_>,<IO><10,6><SN><202507070001>,/<G><1><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1725SM00001><DspRev:2.00><GenSn:202506081028><GenBoardSn:><PfcSn:><PfcType:0131>/,/<G><2><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1425SM00158><DspRev:2.00><GenSn:202506081029><GenBoardSn:><PfcSn:><PfcType:0131>/,/<G><3><VER><6.41200><GenRev:4.00>,<0><VI><CalRev:2.10><DspBoardSn:1425SM00054><DspRev:2.00><GenSn:202504081083><GenBoardSn:><PfcSn:><PfcType:0
+04/07 13:55:28.717 (+    0) <<26064>>(RTS) 000>/,/<G><4><VER><6.41200><GenRev:4.00>,<0><V><CalRev:2.10><DspBoardSn:1725SM00001><DspRev:2.00><GenSn:202506081155><GenBoardSn:><PfcSn:><PfcType:0000>/,<SMRT><PN:SMRT46-30P0F1A0S1><SysBdAsySn:202506081155><SysBoardType:5.2,A><IEC61850:0><AdvSoft:0><BIS0>;
+04/07 13:55:28.817 (+  100) <<26064>>(RTS) WRITE: flag:rogkey:qry,
+04/07 13:55:28.819 (+    2) <<26064>>(RTS) READ: 0;
+04/07 13:55:28.898 (+   79) <<26064>>(RTS) WRITE: QVER;
+04/07 13:55:28.898 (+    0) <<26064>>(RTS) READ: DSP0:6.41200,CPLD:8,Boot:1.052;DSP1:6.41200,CPLD:8,Boot:1.052;DSP2:6.41200,CPLD:8,Boot:1.052;
+04/07 13:55:29.009 (+  111) <<26064>>(RTS) WRITE: QIP;
+04/07 13:55:29.009 (+    0) <<26064>>(RTS) READ: 169.254.219.227,AutoCFG;
+04/07 13:55:29.119 (+  110) <<26064>>(RTS) WRITE: WHOAMI;
+04/07 13:55:29.119 (+    0) <<26064>>(RTS) READ: <M - IP=169.254.219.227, MAC=00:26:a1:02:89:81><2><S0 - IP=169.254.13.80, MAC=00:26:a1:02:89:4e><S1 - IP=169.254.200.1, MAC=00:26:a1:02:89:38>;
+04/07 13:55:29.231 (+  112) <<26064>>(RTS) WRITE: QRYALL,
+04/07 13:55:29.237 (+    6) <<26064>>(RTS) READ: V,0,10,0.0,0.0,0.000,60.000,0,20,0.0,0.0,0.000,60.000,0,30,0.0,0.0,0.000,60.000,0,40,0.0,0.0,360.000,60.000,I,0,11,0.0,0.0,0.000,60.000,0,21,0.0,0.0,0.000,60.000,0,31,0.0,0.0,0.000,60.000,BI,0000000000,BO,000000,EV,0,T,0.0000,T01,0.0,T02,0.0,T03,0.0,T04,0.0,T05,0.0,T06,0.0,T07,0.0,T08,0.0,T09,0.0,T10,0.0,P8000,16,P8k2,0,VDC,NA,BootCnt:42,DCAP0,Tmax,41.75,12,SMRT,SSF:NA,44.53,63.75,;
+04/07 13:55:29.344 (+  107) <<26064>>(RTS) WRITE: qboot1,
+04/07 13:55:29.344 (+    0) <<26064>>(RTS) READ: boot:1;
+04/07 13:55:29.456 (+  112) <<26064>>(RTS) WRITE: qboot2,
+04/07 13:55:29.456 (+    0) <<26064>>(RTS) READ: boot:1;
+04/07 13:55:29.567 (+  111) <<26064>>(RTS) WRITE: qboot3,
+04/07 13:55:30.573 (+ 1006) <<26064>>(RTS) READ 0 BYTES
+04/07 13:55:30.685 (+  112) <<26064>>(RTS) WRITE: qboot4,
+04/07 13:55:31.689 (+ 1004) <<26064>>(RTS) READ 0 BYTES
+04/07 13:55:31.800 (+  111) <<26064>>(RTS) WRITE: SYSSETF,
+04/07 13:55:36.802 (+ 5002) <<26064>>(RTS) READ 0 BYTES
+04/07 13:55:36.802 (+    0) <<26064>>(RTS) WRITE: SU;
+04/07 13:55:37.921 (+ 1119) <<26064>>(RTS) WRITE: QRYMAX,
+04/07 13:55:40.937 (+ 3016) <<26064>>(RTS) READ 0 BYTES
+04/07 13:55:40.937 (+    0) <<26064>>(RTS) HandleError: Message: -No query response...-
+04/07 13:55:40.937 (+    0) <<26064>>(RTS) STATUS: -No query response...-
+04/07 13:55:40.937 (+    0) <<26064>>(RTS) ResetVectors()
+04/07 13:55:40.953 (+   16) <<26064>>(RTS) CDriver::Abort()
+04/07 13:55:40.953 (+    0) <<26064>>(RTS) CDriver::SimpleReset()
+04/07 13:55:41.063 (+  110) <<26064>>(RTS) WRITE: XU;
+04/07 13:55:46.080 (+ 5017) <<26064>>(RTS) READ 0 BYTES
+04/07 13:55:46.080 (+    0) <<26064>>(RTS) AllOff()
+04/07 13:55:46.080 (+    0) <<26064>>(RTS) WRITE: V0C0,a0;
+04/07 13:55:46.191 (+  111) <<26064>>(RTS) WRITE: QHS,

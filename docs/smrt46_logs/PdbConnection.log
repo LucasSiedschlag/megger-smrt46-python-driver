@@ -1,0 +1,17 @@
+04/07 13:35:54.708 (+ 1018) <<27416>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/07 13:35:54.835 (+  127) <<27416>>ADO Recordset Open SQL Str 36693544 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/07 13:35:54.882 (+   47) <<30196>>link sel Monitor = 3
+04/07 13:35:55.090 (+  208) <<30196>>Setting Last Found Timer
+04/07 13:35:55.708 (+  618) <<27416>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/07 13:35:56.714 (+ 1006) <<27416>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/07 13:35:56.825 (+  111) <<27416>>ADO Recordset Open SQL Str 36693544 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/07 13:35:57.699 (+  874) <<27416>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/07 13:35:58.700 (+ 1001) <<27416>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/07 13:35:58.827 (+  127) <<27416>>ADO Recordset Open SQL Str 36693544 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/07 13:35:59.701 (+  874) <<27416>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+

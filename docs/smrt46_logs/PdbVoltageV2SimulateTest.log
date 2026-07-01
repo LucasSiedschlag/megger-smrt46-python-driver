@@ -1,0 +1,24 @@
+05/04 12:38:58.587 (+  999) <<17472>>ADO Recordset Open SQL Str 34597784 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+05/04 12:38:58.587 (+    0) <<17472>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+05/04 12:39:00.021 (+ 1434) <<17472>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+05/04 12:39:00.584 (+  563) <<17472>>ADO Recordset Open SQL Str 34597784 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+05/04 12:39:00.584 (+    0) <<17472>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+05/04 12:39:01.551 (+  967) <<17472>>Executing script 'DoOnSelect_SimBtn_t10_l595_r690_b50()', Timeout 4294967295 
+
+05/04 12:39:01.800 (+  249) <<17472>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+05/04 12:39:02.023 (+  223) <<17472>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+05/04 12:39:02.582 (+  559) <<17472>>ADO Recordset Open SQL Str 34597784 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+05/04 12:39:02.583 (+    1) <<17472>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+05/04 12:39:03.582 (+  999) <<17472>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+05/04 12:39:04.582 (+ 1000) <<17472>>ADO Recordset Open SQL Str 34597784 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+05/04 12:39:04.582 (+    0) <<17472>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+05/04 12:39:05.580 (+  998) <<17472>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+

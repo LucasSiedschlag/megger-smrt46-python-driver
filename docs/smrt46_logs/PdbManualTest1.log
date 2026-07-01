@@ -1,0 +1,111 @@
+04/10 10:14:07.600 (+ 1002) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:08.189 (+  589) <<46224>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:14:08.600 (+  411) <<46224>>ADO Recordset Open SQL Str 36694320 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:14:08.600 (+    0) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:09.601 (+ 1001) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:10.604 (+ 1003) <<46224>>ADO Recordset Open SQL Str 36694320 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:14:10.604 (+    0) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:11.600 (+  996) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:12.600 (+ 1000) <<46224>>ADO Recordset Open SQL Str 36694320 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:14:12.600 (+    0) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:13.603 (+ 1003) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:14.604 (+ 1001) <<46224>>ADO Recordset Open SQL Str 36694320 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:14:14.604 (+    0) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:15.605 (+ 1001) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:16.123 (+  518) <<33976>>Non-empty response: ERROR: Open circuit alarm  on C1 |
+04/10 10:14:16.601 (+  478) <<46224>>ADO Recordset Open SQL Str 36694320 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:14:16.602 (+    1) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:16.983 (+  381) <<46224>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:14:17.600 (+  617) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:18.598 (+  998) <<46224>>ADO Recordset Open SQL Str 36694320 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:14:18.598 (+    0) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:18.995 (+  397) <<46224>>Executing script 'DoOnSelect_IOn_1_t355_l0_r70_b407()', Timeout 4294967295 
+
+04/10 10:14:19.484 (+  489) <<46224>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:14:19.728 (+  244) <<46224>>Executing script 'DoOnSelect_IOn_2_t407_l0_r70_b459()', Timeout 4294967295 
+
+04/10 10:14:19.768 (+   40) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:20.593 (+  825) <<46224>>ADO Recordset Open SQL Str 36694320 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:14:20.593 (+    0) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:21.602 (+ 1009) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:22.602 (+ 1000) <<46224>>ADO Recordset Open SQL Str 36694320 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:14:22.602 (+    0) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:23.877 (+ 1275) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:24.592 (+  715) <<46224>>ADO Recordset Open SQL Str 36694320 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:14:24.594 (+    2) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:25.597 (+ 1003) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:26.606 (+ 1009) <<46224>>ADO Recordset Open SQL Str 36694320 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:14:26.608 (+    2) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:26.972 (+  364) <<33976>>Non-empty response: ERROR: Deviation alarm on C2 |
+04/10 10:14:27.624 (+  652) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:27.894 (+  270) <<46224>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:14:28.608 (+  714) <<46224>>ADO Recordset Open SQL Str 36694320 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:14:28.608 (+    0) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:29.610 (+ 1002) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:29.688 (+   78) <<46224>>Executing script 'DoOnSelect_IOn_1_t355_l0_r70_b407()', Timeout 4294967295 
+
+04/10 10:14:29.895 (+  207) <<46224>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:14:30.609 (+  714) <<46224>>ADO Recordset Open SQL Str 36694320 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:14:30.609 (+    0) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:31.620 (+ 1011) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:32.622 (+ 1002) <<46224>>ADO Recordset Open SQL Str 36694320 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:14:32.622 (+    0) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:34.040 (+ 1418) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:34.607 (+  567) <<46224>>ADO Recordset Open SQL Str 36694320 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:14:34.607 (+    0) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:35.609 (+ 1002) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:36.616 (+ 1007) <<46224>>ADO Recordset Open SQL Str 36694320 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:14:36.616 (+    0) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:37.331 (+  715) <<33976>>Non-empty response: ERROR: Open circuit alarm  on C1 | ERROR: Open circuit alarm  on C2 |
+04/10 10:14:37.619 (+  288) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:38.032 (+  413) <<46224>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:14:38.620 (+  588) <<46224>>ADO Recordset Open SQL Str 36694320 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:14:38.620 (+    0) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:39.620 (+ 1000) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:40.619 (+  999) <<46224>>ADO Recordset Open SQL Str 36694320 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:14:40.622 (+    3) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:41.614 (+  992) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:14:42.614 (+ 1000) <<46224>>ADO Recordset Open SQL Str 36694320 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:14:42.617 (+    3) <<46224>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+

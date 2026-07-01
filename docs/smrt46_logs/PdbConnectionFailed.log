@@ -1,0 +1,13 @@
+04/07 13:47:26.520 (+35162) <<27416>>Invalid View command 'Invalidate 1' 
+04/07 13:47:26.628 (+  108) <<27416>>ADO Recordset Open SQL Str 36693544 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/07 13:47:26.632 (+    4) <<27416>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/07 13:47:26.636 (+    4) <<27416>>Executing script 'ExecuteChangeScreen()', Timeout 4294967295 
+
+04/07 13:47:26.674 (+   38) <<27416>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/07 13:47:26.754 (+   80) <<27416>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/07 13:47:27.411 (+  657) <<27416>>ADO Recordset Open SQL Str 36693544 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/07 13:47:27.752 (+  341) <<27416>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+

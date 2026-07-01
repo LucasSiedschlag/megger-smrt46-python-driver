@@ -1,0 +1,603 @@
+
+04/10 10:52:16.655 (+ 1003) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:17.150 (+  495) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:52:17.658 (+  508) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:18.674 (+ 1016) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:19.152 (+  478) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:52:19.691 (+  539) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:20.700 (+ 1009) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:21.139 (+  439) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:52:21.713 (+  574) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:22.714 (+ 1001) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:23.143 (+  429) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:52:23.311 (+  168) <<23420>>Executing script 'DoOnSelect_SimpleRampButton_t209_l350_r415_b259()', Timeout 4294967295 
+
+04/10 10:52:23.714 (+  403) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:23.714 (+    0) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:52:24.700 (+  986) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:25.144 (+  444) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:52:25.160 (+   16) <<23420>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:52:25.160 (+    0) <<23420>>Executing script 'DoOnSelect_SrChan_1_t209_l5_r80_b259()', Timeout 4294967295 
+
+04/10 10:52:25.259 (+   99) <<23420>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:52:25.657 (+  398) <<23420>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:52:25.657 (+    0) <<23420>>Executing script 'DoOnSelect_SrChan_1_t209_l5_r80_b259()', Timeout 4294967295 
+
+04/10 10:52:25.762 (+  105) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:26.701 (+  939) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:27.147 (+  446) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:52:27.702 (+  555) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:27.718 (+   16) <<23420>>Executing script 'DoOnSelect_r0__SrExpected_t90_l440_r630_b134()', Timeout 4294967295 
+
+04/10 10:52:28.703 (+  985) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:28.704 (+    1) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:52:29.148 (+  444) <<23420>>ADO Recordset Open SQL Str 36948136 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:52:29.703 (+  555) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:30.068 (+  365) <<23420>>Executing script 'DoOnSelect_r0__SrInc_t135_l495_r580_b180()', Timeout 4294967295 
+
+04/10 10:52:30.706 (+  638) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:30.706 (+    0) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:52:31.145 (+  439) <<23420>>ADO Recordset Open SQL Str 36948136 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:52:31.707 (+  562) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:31.707 (+    0) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:52:32.721 (+ 1014) <<23420>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:52:32.933 (+  212) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:33.148 (+  215) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:52:33.703 (+  555) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:34.132 (+  429) <<23420>>Executing script 'DoOnSelect_r0__SrStart_t234_l440_r620_b274()', Timeout 4294967295 
+
+04/10 10:52:34.720 (+  588) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:34.720 (+    0) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:52:35.148 (+  428) <<23420>>ADO Recordset Open SQL Str 36948136 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:52:35.723 (+  575) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:35.723 (+    0) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:52:36.065 (+  342) <<23420>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:52:36.686 (+  621) <<23420>>Executing script 'DoOnSelect_r0__SrStop_t55_l590_r700_b85()', Timeout 4294967295 
+
+04/10 10:52:36.797 (+  111) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:36.797 (+    0) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:52:37.145 (+  348) <<23420>>ADO Recordset Open SQL Str 36948136 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:52:37.717 (+  572) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:37.718 (+    1) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:52:38.718 (+ 1000) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:38.718 (+    0) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:52:39.073 (+  355) <<23420>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:52:39.242 (+  169) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:52:39.511 (+  269) <<23420>>Executing script 'DoOnSelect_r0__SrDwell_t190_l585_r660_b240()', Timeout 4294967295 
+
+04/10 10:52:39.717 (+  206) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:39.717 (+    0) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:52:40.720 (+ 1003) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:40.721 (+    1) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:52:41.163 (+  442) <<23420>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:52:41.347 (+  184) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:52:41.718 (+  371) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:42.511 (+  793) <<23420>>Executing script 'DoOnSelect_r0__SrRest_t180_l455_r525_b230()', Timeout 4294967295 
+
+04/10 10:52:42.718 (+  207) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:42.718 (+    0) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:52:43.147 (+  429) <<23420>>ADO Recordset Open SQL Str 36948136 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:52:43.719 (+  572) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:43.719 (+    0) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:52:44.721 (+ 1002) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:44.721 (+    0) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:52:45.150 (+  429) <<23420>>ADO Recordset Open SQL Str 36948136 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:52:45.728 (+  578) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:45.728 (+    0) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:52:45.891 (+  163) <<23420>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:52:46.727 (+  836) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:47.139 (+  412) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:52:47.728 (+  589) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:48.728 (+ 1000) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:49.157 (+  429) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:52:49.729 (+  572) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:50.224 (+  495) <<23420>>Executing script 'DoOnSelect_RampNum_t214_l350_r380_b234()', Timeout 4294967295 
+
+04/10 10:52:50.717 (+  493) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:50.717 (+    0) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:52:51.140 (+  423) <<23420>>ADO Recordset Open SQL Str 36934960 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:52:51.637 (+  497) <<23420>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:52:51.830 (+  193) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:52.718 (+  888) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:53.147 (+  429) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:52:53.353 (+  206) <<23420>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:52:53.369 (+   16) <<23420>>Executing script 'DoOnSelect_SrChan_2_t209_l85_r160_b259()', Timeout 4294967295 
+
+04/10 10:52:53.465 (+   96) <<23420>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:52:53.720 (+  255) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:54.531 (+  811) <<23420>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:52:54.533 (+    2) <<23420>>Executing script 'DoOnSelect_SrChan_2_t209_l85_r160_b259()', Timeout 4294967295 
+
+04/10 10:52:54.721 (+  188) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:55.148 (+  427) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:52:55.723 (+  575) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:56.723 (+ 1000) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:56.785 (+   62) <<23420>>Executing script 'DoOnSelect_r0__SrExpected_t90_l440_r630_b134()', Timeout 4294967295 
+
+04/10 10:52:57.138 (+  353) <<23420>>ADO Recordset Open SQL Str 36948136 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:52:57.727 (+  589) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:57.727 (+    0) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:52:58.728 (+ 1001) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:52:59.140 (+  412) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:52:59.728 (+  588) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:00.718 (+  990) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:01.139 (+  421) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:53:01.314 (+  175) <<23420>>Executing script 'DoOnSelect_r0__SrDwell_t190_l585_r660_b240()', Timeout 4294967295 
+
+04/10 10:53:01.718 (+  404) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:01.719 (+    1) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:53:02.828 (+ 1109) <<23420>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:53:03.026 (+  198) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:03.143 (+  117) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:53:03.317 (+  174) <<23420>>Executing script 'DoOnSelect_r0__SrInc_t135_l495_r580_b180()', Timeout 4294967295 
+
+04/10 10:53:03.715 (+  398) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:03.715 (+    0) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:53:04.717 (+ 1002) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:04.717 (+    0) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:53:05.145 (+  428) <<23420>>ADO Recordset Open SQL Str 36948136 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:53:05.721 (+  576) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:05.721 (+    0) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:53:06.174 (+  453) <<23420>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:53:06.719 (+  545) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:06.815 (+   96) <<23420>>Executing script 'DoOnSelect_r0__SrStart_t234_l440_r620_b274()', Timeout 4294967295 
+
+04/10 10:53:07.148 (+  333) <<23420>>ADO Recordset Open SQL Str 36948136 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:53:07.718 (+  570) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:07.718 (+    0) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:53:08.402 (+  684) <<23420>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:53:08.718 (+  316) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:09.035 (+  317) <<23420>>Executing script 'DoOnSelect_r0__SrStop_t55_l590_r700_b85()', Timeout 4294967295 
+
+04/10 10:53:09.158 (+  123) <<23420>>ADO Recordset Open SQL Str 36948136 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:53:09.718 (+  560) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:09.718 (+    0) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:53:10.723 (+ 1005) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:10.723 (+    0) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:53:11.141 (+  418) <<23420>>ADO Recordset Open SQL Str 36948136 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:53:11.716 (+  575) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:11.717 (+    1) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:53:12.052 (+  335) <<23420>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:53:12.731 (+  679) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:13.081 (+  350) <<23420>>Executing script 'DoOnSelect_r0__SrRest_t180_l455_r525_b230()', Timeout 4294967295 
+
+04/10 10:53:13.196 (+  115) <<23420>>ADO Recordset Open SQL Str 36948136 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:53:13.747 (+  551) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:13.747 (+    0) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:53:14.798 (+ 1051) <<23420>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:53:14.989 (+  191) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:15.144 (+  155) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:53:15.621 (+  477) <<23420>>Executing script 'DoOnSelect_SimpleRampButton_t209_l350_r415_b259()', Timeout 4294967295 
+
+04/10 10:53:15.753 (+  132) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:15.753 (+    0) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:53:16.750 (+  997) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:16.989 (+  239) <<23420>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:53:16.989 (+    0) <<23420>>Executing script 'DoOnSelect_SrChan_3_t209_l165_r240_b259()', Timeout 4294967295 
+
+04/10 10:53:17.085 (+   96) <<23420>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:53:17.149 (+   64) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:53:17.753 (+  604) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:17.929 (+  176) <<23420>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:53:17.944 (+   15) <<23420>>Executing script 'DoOnSelect_SrChan_3_t209_l165_r240_b259()', Timeout 4294967295 
+
+04/10 10:53:18.753 (+  809) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:18.896 (+  143) <<23420>>Executing script 'DoOnSelect_r0__SrExpected_t90_l440_r630_b134()', Timeout 4294967295 
+
+04/10 10:53:19.150 (+  254) <<23420>>ADO Recordset Open SQL Str 36948136 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:53:19.753 (+  603) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:19.753 (+    0) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:53:20.757 (+ 1004) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:20.788 (+   31) <<23420>>Executing script 'DoOnSelect_r0__SrInc_t135_l495_r580_b180()', Timeout 4294967295 
+
+04/10 10:53:21.148 (+  360) <<23420>>ADO Recordset Open SQL Str 36948136 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:53:21.767 (+  619) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:21.770 (+    3) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:53:22.753 (+  983) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:22.754 (+    1) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:53:23.277 (+  523) <<23420>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:53:23.469 (+  192) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:53:23.753 (+  284) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:23.785 (+   32) <<23420>>Executing script 'DoOnSelect_r0__SrDwell_t190_l585_r660_b240()', Timeout 4294967295 
+
+04/10 10:53:24.772 (+  987) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:24.772 (+    0) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:53:25.169 (+  397) <<23420>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:53:25.376 (+  207) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:53:25.777 (+  401) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:25.909 (+  132) <<23420>>Executing script 'DoOnSelect_r0__SrStart_t234_l440_r620_b274()', Timeout 4294967295 
+
+04/10 10:53:26.779 (+  870) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:26.779 (+    0) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:53:27.138 (+  359) <<23420>>ADO Recordset Open SQL Str 36948136 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:53:27.517 (+  379) <<23420>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:53:27.770 (+  253) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:28.150 (+  380) <<23420>>Executing script 'DoOnSelect_r0__SrStop_t55_l590_r700_b85()', Timeout 4294967295 
+
+04/10 10:53:28.768 (+  618) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:28.768 (+    0) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:53:29.149 (+  381) <<23420>>ADO Recordset Open SQL Str 36948136 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:53:29.767 (+  618) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:29.767 (+    0) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:53:30.704 (+  937) <<23420>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:53:30.886 (+  182) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:31.145 (+  259) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:53:31.303 (+  158) <<23420>>Executing script 'DoOnSelect_r0__SrRest_t180_l455_r525_b230()', Timeout 4294967295 
+
+04/10 10:53:31.766 (+  463) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:31.766 (+    0) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:53:32.767 (+ 1001) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:32.767 (+    0) <<23420>>Failed to execute script 'DoTimerScriptlet' because a prior script is still running
+
+
+04/10 10:53:33.104 (+  337) <<23420>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:53:33.289 (+  185) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:53:33.768 (+  479) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:34.764 (+  996) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:35.145 (+  381) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:53:35.769 (+  624) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:36.770 (+ 1001) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:37.137 (+  367) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:53:37.772 (+  635) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:38.776 (+ 1004) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:39.141 (+  365) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:53:39.776 (+  635) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:40.238 (+  462) <<23420>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:53:40.766 (+  528) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:41.141 (+  375) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:53:41.766 (+  625) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:42.765 (+  999) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:43.147 (+  382) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:53:43.765 (+  618) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:44.765 (+ 1000) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:45.146 (+  381) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:53:45.770 (+  624) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:46.768 (+  998) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:47.150 (+  382) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:53:47.770 (+  620) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:48.770 (+ 1000) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:49.150 (+  380) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:53:49.770 (+  620) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:50.776 (+ 1006) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:51.151 (+  375) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:53:51.776 (+  625) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:52.774 (+  998) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:53.141 (+  367) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:53:53.777 (+  636) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:54.777 (+ 1000) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:55.143 (+  366) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:53:55.766 (+  623) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:55.965 (+  199) <<23420>>Executing script 'DoOnSelect_SimBtn_t10_l595_r690_b50()', Timeout 4294967295 
+
+04/10 10:53:56.203 (+  238) <<23420>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:53:56.778 (+  575) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:57.143 (+  365) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:53:57.792 (+  649) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:58.778 (+  986) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:53:59.146 (+  368) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:53:59.781 (+  635) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:00.786 (+ 1005) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:01.145 (+  359) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:54:01.783 (+  638) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:02.786 (+ 1003) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:03.137 (+  351) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:54:03.790 (+  653) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:04.791 (+ 1001) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:05.141 (+  350) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:54:05.779 (+  638) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:06.779 (+ 1000) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:07.147 (+  368) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:54:07.779 (+  632) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:08.783 (+ 1004) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:09.033 (+  250) <<23420>>Executing script 'DoOnSelect_SimBtn_t10_l595_r690_b50()', Timeout 4294967295 
+
+04/10 10:54:09.260 (+  227) <<23420>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:54:09.417 (+  157) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:54:09.782 (+  365) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:10.787 (+ 1005) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:11.147 (+  360) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:54:11.788 (+  641) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:12.790 (+ 1002) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:13.140 (+  350) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:54:13.779 (+  639) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:14.780 (+ 1001) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:15.148 (+  368) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:54:15.788 (+  640) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:16.791 (+ 1003) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:17.142 (+  351) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:54:17.793 (+  651) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:18.793 (+ 1000) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:18.809 (+   16) <<23420>>Executing script 'DoOnSelect_SimBtn_t10_l595_r690_b50()', Timeout 4294967295 
+
+04/10 10:54:19.111 (+  302) <<23420>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:54:19.270 (+  159) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:54:19.793 (+  523) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:20.270 (+  477) <<23420>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:54:20.815 (+  545) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:21.142 (+  327) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:54:21.814 (+  672) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:22.817 (+ 1003) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:23.150 (+  333) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:54:23.817 (+  667) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:24.804 (+  987) <<23420>>Executing script 'DoUpdateScriptlet()', Timeout 4294967295 
+
+04/10 10:54:25.063 (+  259) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:25.153 (+   90) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:54:25.824 (+  671) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:26.821 (+  997) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:27.139 (+  318) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:54:27.825 (+  686) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:28.836 (+ 1011) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:29.153 (+  317) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:54:29.833 (+  680) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:30.840 (+ 1007) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:31.152 (+  312) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:54:31.838 (+  686) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:32.839 (+ 1001) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:33.141 (+  302) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:54:33.826 (+  685) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:34.829 (+ 1003) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:35.146 (+  317) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:54:35.834 (+  688) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:36.833 (+  999) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:37.151 (+  318) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:54:37.835 (+  684) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:38.836 (+ 1001) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:39.137 (+  301) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:54:39.837 (+  700) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:40.838 (+ 1001) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:41.149 (+  311) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:54:41.836 (+  687) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:42.832 (+  996) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:43.139 (+  307) <<23420>>ADO Recordset Open SQL Str 36955616 SELECT Date FROM PdbSynchTrack ORDER BY Date DESC  
+04/10 10:54:43.833 (+  694) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
+04/10 10:54:44.850 (+ 1017) <<23420>>Executing script 'DoTimerScriptlet()', Timeout 4294967295 
+
